@@ -48,10 +48,12 @@ File: [kohli_internationalcareer.csv](kohli_internationalcareer.csv)
 
 ---
 
-🛠️ Tools Used
+## 🛠️ Tools Used
 Power BI
 Data Cleaning
 Data Visualization
+
+---
 
 ## 💡 Note
 
