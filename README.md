@@ -38,6 +38,14 @@ Interactive Power BI dashboard analyzing Virat Kohli’s career using data-drive
 
 [Watch Dashboard Demo](https://drive.google.com/file/d/1lyifpbiHXt4KQIb7-XWiUtTZdlJZPWkh/view?usp=sharing)
 
+## 📂 Dataset
+The dataset used in this project includes detailed match-by-match performance data of Virat Kohli.
+
+- Cleaned and transformed for analysis  
+- Used for creating interactive visuals in Power BI  
+
+File: kohli_internationalcareer.csv
+
 ---
 
 ## 💡 Note
