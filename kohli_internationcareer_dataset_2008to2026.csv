@@ -1,0 +1,656 @@
+﻿Int. Match,Int. Inns,Runs,Balls,4s,6s,SR,Pos,Dismissal,Inns No.,Opposition,Event,Ground,Host Country,Date,F_Match,F_Inns,Not Out,Captain,POTM,Result,Format,Int_T_Runs
+1,1,12,22,1,0,54.54,2,lbw,1,v Sri Lanka,,"Rangiri Dambulla International Cricket Stadium, Dambulla",Sri Lanka,18-08-2008,1,1,,Dhoni,,Lost,ODI,12
+2,2,37,67,6,0,55.22,2,caught,2,v Sri Lanka,,"Rangiri Dambulla International Cricket Stadium, Dambulla",Sri Lanka,20-08-2008,2,2,,Dhoni,,Won,ODI,49
+3,3,25,38,4,0,65.78,1,run out,1,v Sri Lanka,,"R. Premadasa Stadium, Colombo",Sri Lanka,24-08-2008,3,3,,Dhoni,,Won,ODI,74
+4,4,54,66,7,0,81.81,1,bowled,1,v Sri Lanka,,"R. Premadasa Stadium, Colombo",Sri Lanka,27-08-2008,4,4,,Dhoni,,Won,ODI,128
+5,5,31,46,3,1,67.39,1,lbw,2,v Sri Lanka,,"R. Premadasa Stadium, Colombo",Sri Lanka,29-08-2008,5,5,,Dhoni,,Lost,ODI,159
+6,6,2,2,0,0,100,7,,1,v Sri Lanka,,"R. Premadasa Stadium, Colombo",Sri Lanka,14-09-2009,6,6,Not Out,Dhoni,,Won,ODI,161
+7,7,16,24,1,0,66.66,4,caught,2,v Pakistan,Champions Trophy,"SuperSport Park, Centurion",South Africa,26-09-2009,7,7,,Dhoni,,Lost,ODI,177
+8,,,,,,,,,-,v Australia,Champions Trophy,"SuperSport Park, Centurion",South Africa,28-09-2009,8,DNB,,Dhoni,,NR,ODI,177
+9,8,79,104,9,2,75.96,4,,2,v West Indies,Champions Trophy,"Wanderers Stadium, Johannesburg",South Africa,30-09-2009,9,8,Not Out,Dhoni,POTM,Won,ODI,256
+10,9,30,41,3,0,73.17,4,caught,2,v Australia,,"Reliance Stadium, Vadodara",India,25-10-2009,10,9,,Dhoni,,Lost,ODI,286
+11,10,10,16,1,0,62.5,3,caught,2,v Australia,,"I.S. Bindra Punjab Cricket Association Stadium, Mohali",India,02-11-2009,11,10,,Dhoni,,Lost,ODI,296
+12,11,27,19,4,0,142.1,7,bowled,1,v Sri Lanka,,"Niranjan Shah Stadium, Rajkot",India,15-12-2009,12,11,,Dhoni,,Won,ODI,323
+13,12,54,65,7,0,83.07,4,lbw,1,v Sri Lanka,,"VCA Stadium, Nagpur",India,18-12-2009,13,12,,Dhoni,,Lost,ODI,377
+14,13,107,114,11,1,93.85,4,caught,2,v Sri Lanka,,"Eden Gardens, Kolkata",India,24-12-2009,14,13,,Sehwag,,Won,ODI,484
+15,,,,,,,,,-,v Sri Lanka,,"Arun Jaitley Stadium, Delhi",India,27-12-2009,15,DNB,,Dhoni,,NR,ODI,484
+16,14,9,12,1,0,75,3,caught,1,v Sri Lanka,,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,05-01-2010,16,14,,Dhoni,,Lost,ODI,493
+17,15,91,102,7,0,89.21,3,caught,2,v Bangladesh,,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,07-01-2010,17,15,,Dhoni,,Won,ODI,584
+18,16,71,68,9,0,104.41,3,,2,v Sri Lanka,,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,10-01-2010,18,16,Not Out,Dhoni,,Won,ODI,655
+19,17,102,95,11,0,107.36,3,,2,v Bangladesh,,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,11-01-2010,19,17,Not Out,Dhoni,POTM,Won,ODI,757
+20,18,2,8,0,0,25,3,caught,1,v Sri Lanka,,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,13-01-2010,20,18,,Dhoni,,Lost,ODI,759
+21,19,31,46,1,0,67.39,5,caught,1,v South Africa,,"Sawai Mansingh Stadium, Jaipur",India,21-02-2010,21,19,,Dhoni,,Won,ODI,790
+22,,,,,,,,,1,v South Africa,,"MPCA Gwalior International Cricket Stadium, Gwalior",India,24-02-2010,22,DNB,,Dhoni,,Won,ODI,790
+23,20,57,71,4,1,80.28,3,caught,2,v South Africa,,"Narendra Modi Stadium, Ahmedabad",India,27-02-2010,23,20,,Dhoni,,Lost,ODI,847
+24,21,0,0,0,0,,3,run out,1,v Zimbabwe,,"Queen's Sports Club Cricket Ground, Bulawayo",Zimbabwe,28-05-2010,24,21,,Raina,,Lost,ODI,847
+25,22,82,92,4,0,89.13,3,caught,2,v Sri Lanka,,"Queen's Sports Club Cricket Ground, Bulawayo",Zimbabwe,30-05-2010,25,22,,Raina,,Won,ODI,929
+26,23,18,29,1,0,62.06,3,caught,1,v Zimbabwe,,"Harare Sports Club, Harare",Zimbabwe,03-06-2010,26,23,,Raina,,Lost,ODI,947
+27,24,68,95,5,0,71.57,3,caught,1,v Sri Lanka,,"Harare Sports Club, Harare",Zimbabwe,05-06-2010,27,24,,Raina,,Lost,ODI,1015
+28,25,26,21,3,1,123.8,5,,2,v Zimbabwe,,"Harare Sports Club, Harare",Zimbabwe,12-06-2010,1,1,Not Out,Raina,,Won,T20I,1041
+29,,,,,,,,,2,v Zimbabwe,,"Harare Sports Club, Harare",Zimbabwe,13-06-2010,2,DNB,,Raina,,Won,T20I,1041
+30,26,11,22,0,0,50,3,stumped,2,v Bangladesh,Asia Cup,"Rangiri Dambulla International Cricket Stadium, Dambulla",Sri Lanka,16-06-2010,28,25,,Dhoni,,Won,ODI,1052
+31,27,18,27,1,0,66.66,3,bowled,2,v Pakistan,Asia Cup,"Rangiri Dambulla International Cricket Stadium, Dambulla",Sri Lanka,19-06-2010,29,26,,Dhoni,,Won,ODI,1070
+32,28,10,14,1,0,71.42,3,caught,1,v Sri Lanka,Asia Cup,"Rangiri Dambulla International Cricket Stadium, Dambulla",Bangladesh,22-06-2010,30,27,,Dhoni,,Lost,ODI,1080
+33,29,28,34,4,0,82.35,3,caught,1,v Sri Lanka,Asia Cup,"Rangiri Dambulla International Cricket Stadium, Dambulla",Bangladesh,24-06-2010,31,28,,Dhoni,,Won,ODI,1108
+34,30,0,3,0,0,0,3,caught,2,v Sri Lanka,,"Rangiri Dambulla International Cricket Stadium, Dambulla",Bangladesh,16-08-2010,32,29,,Dhoni,,Won,ODI,1108
+35,31,8,16,1,0,50,3,caught,1,v New Zealand,,"Rangiri Dambulla International Cricket Stadium, Dambulla",Sri Lanka,25-08-2010,33,30,,Dhoni,,Won,ODI,1116
+36,32,37,57,5,0,64.91,3,caught,2,v Sri Lanka,,"Rangiri Dambulla International Cricket Stadium, Dambulla",Bangladesh,28-08-2010,34,31,,Dhoni,,Lost,ODI,1153
+37,33,118,121,11,1,97.52,3,caught,2,v Australia,,"ACA-VDCA Cricket Stadium, Visakhapatnam",India,20-10-2010,35,32,,Dhoni,POTM,Won,ODI,1271
+38,34,105,104,10,0,100.96,3,caught,1,v New Zealand,,"Nehru Stadium, Guwahati",India,28-11-2010,36,33,,Gambhir,,Won,ODI,1376
+39,35,64,73,8,0,87.67,3,caught,2,v New Zealand,,"Sawai Mansingh Stadium, Jaipur",India,01-12-2010,37,34,,Gambhir,,Won,ODI,1440
+40,36,63,70,6,2,90,3,,2,v New Zealand,,"Reliance Stadium, Vadodara",India,04-12-2010,38,35,Not Out,Gambhir,,Won,ODI,1503
+41,37,0,2,0,0,0,3,caught,2,v New Zealand,,"M.Chinnaswamy Stadium, Bengaluru",India,07-12-2010,39,36,,Gambhir,,Won,ODI,1503
+42,38,2,8,0,0,25,3,caught,2,v New Zealand,,"M.A. Chidambaram Stadium, Chennai",India,10-12-2010,40,37,,Gambhir,,Won,ODI,1505
+43,39,28,19,5,0,147.36,1,bowled,1,v South Africa,,"Kingsmead Cricket Stadium, Durban",South Africa,09-01-2011,3,2,,Dhoni,,Won,T20I,1533
+44,40,54,70,2,1,77.14,3,caught,2,v South Africa,,"Kingsmead Cricket Stadium, Durban",South Africa,12-01-2011,41,38,,Dhoni,,Lost,ODI,1587
+45,41,22,34,1,0,64.7,3,run out,1,v South Africa,,"Wanderers Stadium, Johannesburg",South Africa,15-01-2011,42,39,,Dhoni,,Won,ODI,1609
+46,42,28,41,5,0,68.29,3,caught,2,v South Africa,,"Newlands Cricket Ground, Cape Town",South Africa,18-01-2011,43,40,,Dhoni,,Won,ODI,1637
+47,43,87,92,7,2,94.56,3,,2,v South Africa,,"St George's Park, Gqeberha",South Africa,21-01-2011,44,41,Not Out,Dhoni,,Lost,ODI,1724
+48,44,2,6,0,0,33.33,3,caught,2,v South Africa,,"SuperSport Park, Centurion",South Africa,23-01-2011,45,42,,Dhoni,,Lost,ODI,1726
+49,45,100,83,8,2,120.48,4,,1,v Bangladesh,ODI World Cup,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,19-02-2011,46,43,Not Out,Dhoni,,Won,ODI,1826
+50,46,8,5,1,0,160,7,bowled,1,v England,ODI World Cup,"M.Chinnaswamy Stadium, Bengaluru",India,27-02-2011,47,44,,Dhoni,,Tied,ODI,1834
+51,47,34,53,3,0,64.15,4,run out,2,v Ireland,ODI World Cup,"M.Chinnaswamy Stadium, Bengaluru",India,06-03-2011,48,45,,Dhoni,,Won,ODI,1868
+52,48,12,20,2,0,60,5,bowled,2,v Netherlands,ODI World Cup,"Arun Jaitley Stadium, Delhi",India,09-03-2011,49,46,,Dhoni,,Won,ODI,1880
+53,49,1,3,0,0,33.33,7,caught,1,v South Africa,ODI World Cup,"VCA Stadium, Nagpur",India,12-03-2011,50,47,,Dhoni,,Lost,ODI,1881
+54,50,59,76,5,0,77.63,3,bowled,1,v West Indies,ODI World Cup,"M.A. Chidambaram Stadium, Chennai",India,20-03-2011,51,48,,Dhoni,,Won,ODI,1940
+55,51,24,33,1,0,72.72,4,caught,2,v Australia,ODI World Cup,"Narendra Modi Stadium, Ahmedabad",India,24-03-2011,52,49,,Dhoni,,Won,ODI,1964
+56,52,9,21,0,0,42.85,4,caught,1,v Pakistan,ODI World Cup,"I.S. Bindra Punjab Cricket Association Stadium, Mohali",India,30-03-2011,53,50,,Dhoni,,Won,ODI,1973
+57,53,35,49,4,0,71.42,4,caught,2,v Sri Lanka,ODI World Cup,"Wankhede Stadium, Mumbai",India,02-04-2011,54,51,,Dhoni,,Won,ODI,2008
+58,54,14,12,2,0,116.66,3,caught,1,v West Indies,,"Queen's Park Oval, Port of Spain",West Indies,04-06-2011,4,3,,Raina,,Won,T20I,2022
+59,55,2,8,0,0,25,3,caught,2,v West Indies,,"Queen's Park Oval, Port of Spain",West Indies,06-06-2011,55,52,,Raina,POTM,Won,ODI,2024
+60,56,81,103,6,1,78.64,3,caught,2,v West Indies,,"Queen's Park Oval, Port of Spain",West Indies,08-06-2011,56,53,,Raina,,Won,ODI,2105
+61,57,0,1,0,0,0,3,lbw,2,v West Indies,,"Sir Vivian Richards Stadium, North Sound",West Indies,11-06-2011,57,54,,Raina,,Won,ODI,2105
+62,58,22,33,1,0,66.66,3,stumped,2,v West Indies,,"Sir Vivian Richards Stadium, North Sound",West Indies,13-06-2011,58,55,,Raina,,Lost,ODI,2127
+63,59,94,104,10,0,90.38,3,run out,1,v West Indies,,"Sabina Park, Kingston",West Indies,16-06-2011,59,56,,Raina,,Lost,ODI,2221
+64,60,4,10,1,0,40,5,caught,1,v West Indies,,"Sabina Park, Kingston",West Indies,20-06-2011,1,1,,Dhoni,,Won,Test,2225
+64,61,15,54,2,0,27.77,5,caught,3,v West Indies,,"Sabina Park, Kingston",West Indies,20-06-2011,1,2,,Dhoni,,Won,Test,2240
+65,62,0,2,0,0,0,5,caught,1,v West Indies,,"Kensington Oval, Bridgetown",West Indies,28-06-2011,2,3,,Dhoni,,Drawn,Test,2240
+65,63,27,107,1,1,25.23,5,caught,3,v West Indies,,"Kensington Oval, Bridgetown",West Indies,28-06-2011,2,4,,Dhoni,,Drawn,Test,2267
+66,64,30,53,2,0,56.6,5,caught,2,v West Indies,,"Windsor Park, Roseau",West Indies,06-07-2011,3,5,,Dhoni,,Drawn,Test,2297
+66,,,,,,,,,4,v West Indies,,"Windsor Park, Roseau",West Indies,06-07-2011,3,DNB,,Dhoni,,Drawn,Test,2297
+67,65,4,5,0,0,80,4,caught,1,v England,,"Old Trafford Cricket Ground, Manchester",England,31-08-2011,5,4,,Dhoni,,Lost,T20I,2301
+68,66,55,73,4,0,75.34,4,bowled,1,v England,,"Riverside Ground, Chester-le-Street",England,03-09-2011,60,57,,Dhoni,,NR,ODI,2356
+69,67,9,9,0,0,100,4,caught,1,v England,,"Utilita Bowl, Southampton",England,06-09-2011,61,58,,Dhoni,,Lost,ODI,2365
+70,68,7,18,0,0,38.88,4,caught,1,v England,,"The Kia Oval, London",England,09-09-2011,62,59,,Dhoni,,Lost,ODI,2372
+71,69,16,36,1,0,44.44,4,caught,1,v England,,"Lord's Cricket Ground, London",England,11-09-2011,63,60,,Dhoni,,Tied,ODI,2388
+72,70,107,93,9,1,115.05,4,hit wicket,1,v England,,"Sophia Gardens Cricket Ground, Cardiff",England,16-09-2011,64,61,,Dhoni,,Lost,ODI,2495
+73,71,37,63,0,0,58.73,4,caught,1,v England,,"Rajiv Gandhi International Cricket Stadium, Hyderabad",India,14-10-2011,65,62,,Dhoni,,Won,ODI,2532
+74,72,112,98,16,0,114.28,4,,2,v England,,"Arun Jaitley Stadium, Delhi",India,17-10-2011,66,63,Not Out,Dhoni,POTM,Won,ODI,2644
+75,73,35,30,5,0,116.66,4,lbw,2,v England,,"I.S. Bindra Punjab Cricket Association Stadium, Mohali",India,20-10-2011,67,64,,Dhoni,,Won,ODI,2679
+76,74,86,99,11,0,86.86,4,,2,v England,,"Wankhede Stadium, Mumbai",India,23-10-2011,68,65,Not Out,Dhoni,,Won,ODI,2765
+77,75,0,5,0,0,0,3,bowled,1,v England,,"Eden Gardens, Kolkata",India,25-10-2011,69,66,,Dhoni,,Won,ODI,2765
+78,76,15,16,3,0,93.75,3,caught,1,v England,,"Eden Gardens, Kolkata",India,29-10-2011,6,5,,Dhoni,,Lost,T20I,2780
+79,77,52,111,5,0,46.84,6,caught,2,v West Indies,,"Wankhede Stadium, Mumbai",India,22-11-2011,4,6,,Dhoni,,Drawn,Test,2832
+79,78,63,114,3,1,55.26,6,caught,4,v West Indies,,"Wankhede Stadium, Mumbai",India,22-11-2011,4,7,,Dhoni,,Drawn,Test,2895
+80,79,3,6,0,0,50,4,bowled,2,v West Indies,,"Barabati Stadium, Cuttack",India,29-11-2011,70,67,,Sehwag,,Won,ODI,2898
+81,80,117,123,14,0,95.12,4,caught,2,v West Indies,,"ACA-VDCA Cricket Stadium, Visakhapatnam",India,02-12-2011,71,68,,Sehwag,POTM,Won,ODI,3015
+82,81,20,30,3,0,66.66,4,lbw,2,v West Indies,,"Narendra Modi Stadium, Ahmedabad",India,05-12-2011,72,69,,Sehwag,,Lost,ODI,3035
+83,82,23,11,3,0,209.09,6,,1,v West Indies,,"Holkar Stadium, Indore",India,08-12-2011,73,70,Not Out,Sehwag,,Won,ODI,3058
+84,83,80,85,5,0,94.11,5,caught,1,v West Indies,,"M.A. Chidambaram Stadium, Chennai",India,11-12-2011,74,71,,Gambhir,,Won,ODI,3138
+85,84,11,21,1,0,52.38,7,caught,2,v Australia,Border-Gavaskar Trophy,"Melbourne Cricket Ground, Melbourne",Australia,26-12-2011,5,8,,Dhoni,,Lost,Test,3149
+85,85,0,1,0,0,0,6,lbw,4,v Australia,Border-Gavaskar Trophy,"Melbourne Cricket Ground, Melbourne",Australia,26-12-2011,5,9,,Dhoni,,Lost,Test,3149
+86,86,23,41,3,0,56.09,6,caught,1,v Australia,Border-Gavaskar Trophy,"Sydney Cricket Ground, Sydney",Australia,03-01-2012,6,10,,Dhoni,,Lost,Test,3172
+86,87,9,24,2,0,37.5,6,lbw,3,v Australia,Border-Gavaskar Trophy,"Sydney Cricket Ground, Sydney",Australia,03-01-2012,6,11,,Dhoni,,Lost,Test,3181
+87,88,44,81,6,0,54.32,6,caught,1,v Australia,Border-Gavaskar Trophy,"WACA Ground, Perth",Australia,13-01-2012,7,12,,Dhoni,,Lost,Test,3225
+87,89,75,136,9,0,55.14,6,caught,3,v Australia,Border-Gavaskar Trophy,"WACA Ground, Perth",Australia,13-01-2012,7,13,,Dhoni,,Lost,Test,3300
+88,90,116,213,11,1,54.46,6,lbw,2,v Australia,Border-Gavaskar Trophy,"Adelaide Oval, Adelaide",Australia,24-01-2012,8,14,,Sehwag,,Lost,Test,3416
+88,91,22,62,2,0,35.48,6,run out,4,v Australia,Border-Gavaskar Trophy,"Adelaide Oval, Adelaide",Australia,24-01-2012,8,15,,Sehwag,,Lost,Test,3438
+89,92,22,21,0,1,104.76,3,caught,2,v Australia,,"Sydney Cricket Ground, Sydney",Australia,01-02-2012,7,6,,Dhoni,,Lost,T20I,3460
+90,93,31,24,3,0,129.16,3,caught,2,v Australia,,"Melbourne Cricket Ground, Melbourne",Australia,03-02-2012,8,7,,Dhoni,,Won,T20I,3491
+91,94,31,34,3,0,91.17,3,caught,2,v Australia,,"Melbourne Cricket Ground, Melbourne",Australia,05-02-2012,75,72,,Dhoni,,Lost,ODI,3522
+92,95,77,94,8,1,81.91,3,run out,2,v Sri Lanka,,"WACA Ground, Perth",Australia,08-02-2012,76,73,,Dhoni,,Won,ODI,3599
+93,96,18,28,1,0,64.28,3,caught,2,v Australia,,"Adelaide Oval, Adelaide",Australia,12-02-2012,77,74,,Dhoni,,Won,ODI,3617
+94,97,15,25,1,0,60,3,lbw,2,v Sri Lanka,,"Adelaide Oval, Adelaide",Australia,14-02-2012,78,75,,Dhoni,,Tied,ODI,3632
+95,98,12,25,0,0,48,3,caught,2,v Australia,,"The Gabba, Brisbane",Australia,19-02-2012,79,76,,Dhoni,,Lost,ODI,3644
+96,99,66,83,2,0,79.51,4,caught,2,v Sri Lanka,,"The Gabba, Brisbane",Australia,21-02-2012,80,77,,Sehwag,,Lost,ODI,3710
+97,100,21,27,2,0,77.77,4,caught,2,v Australia,,"Sydney Cricket Ground, Sydney",Australia,26-02-2012,81,78,,Dhoni,,Lost,ODI,3731
+98,101,133,86,16,2,154.65,4,,2,v Sri Lanka,,"Bellerive Oval, Hobart",Australia,28-02-2012,82,79,Not Out,Dhoni,POTM,Won,ODI,3864
+99,102,108,120,7,0,90,3,caught,1,v Sri Lanka,Asia Cup,"Sher-E-Bangla National Cricket Stadium, Dhaka",Sri Lanka,13-03-2012,83,80,,Dhoni,POTM,Won,ODI,3972
+100,103,66,82,5,0,80.48,3,bowled,1,v Bangladesh,Asia Cup,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,16-03-2012,84,81,,Dhoni,,Lost,ODI,4038
+101,104,183,148,22,1,123.64,3,caught,2,v Pakistan,Asia Cup,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,18-03-2012,85,82,,Dhoni,POTM,Won,ODI,4221
+102,,,,,,,,,2,v South Africa,,"Wanderers Stadium, Johannesburg",South Africa,30-03-2012,9,DNB,,Dhoni,,Lost,T20I,4221
+103,105,106,113,9,0,93.8,3,caught,1,v Sri Lanka,,"Mahinda Rajapaksa International Cricket Stadium, Hambantota",Sri Lanka,21-07-2012,86,83,,Dhoni,POTM,Won,ODI,4327
+104,106,1,5,0,0,20,3,caught,1,v Sri Lanka,,"Mahinda Rajapaksa International Cricket Stadium, Hambantota",Sri Lanka,24-07-2012,87,84,,Dhoni,,Lost,ODI,4328
+105,107,38,65,2,0,58.46,3,caught,2,v Sri Lanka,,"R. Premadasa Stadium, Colombo",Sri Lanka,28-07-2012,88,85,,Dhoni,,Won,ODI,4366
+106,108,128,119,12,1,107.56,3,,2,v Sri Lanka,,"R. Premadasa Stadium, Colombo",Sri Lanka,31-07-2012,89,86,Not Out,Dhoni,POTM,Won,ODI,4494
+107,109,23,35,2,0,65.71,3,lbw,1,v Sri Lanka,,"Pallekele International Cricket Stadium, Kandy",Sri Lanka,04-08-2012,90,87,,Dhoni,,Won,ODI,4517
+108,110,68,48,11,1,141.66,3,caught,1,v Sri Lanka,,"Pallekele International Cricket Stadium, Kandy",Sri Lanka,07-08-2012,10,8,,Dhoni,,Won,T20I,4585
+109,111,58,107,8,0,54.2,5,caught,1,v New Zealand,,"Rajiv Gandhi International Cricket Stadium, Hyderabad",India,23-08-2012,9,16,,Dhoni,,Won,Test,4643
+110,112,103,193,14,1,53.36,5,lbw,2,v New Zealand,,"M.Chinnaswamy Stadium, Bengaluru",India,31-08-2012,10,17,,Dhoni,POTM,Won,Test,4746
+110,113,51,82,9,0,62.19,5,,4,v New Zealand,,"M.Chinnaswamy Stadium, Bengaluru",India,31-08-2012,10,18,Not Out,Dhoni,,Won,Test,4797
+111,114,70,41,10,1,170.73,2,caught,2,v New Zealand,,"M.A. Chidambaram Stadium, Chennai",India,11-09-2012,11,9,,Dhoni,,Lost,T20I,4867
+112,115,50,39,4,2,128.2,3,caught,1,v Afghanistan,T20 World Cup,"R. Premadasa Stadium, Colombo",Sri Lanka,19-09-2012,12,10,,Dhoni,POTM,Won,T20I,4917
+113,116,40,32,6,0,125,3,caught,1,v England,T20 World Cup,"R. Premadasa Stadium, Colombo",Sri Lanka,23-09-2012,13,11,,Dhoni,,Won,T20I,4957
+114,117,15,13,2,0,115.38,3,caught,1,v Australia,T20 World Cup,"R. Premadasa Stadium, Colombo",Sri Lanka,28-09-2012,14,12,,Dhoni,,Lost,T20I,4972
+115,118,78,61,8,2,127.86,3,,2,v Pakistan,T20 World Cup,"R. Premadasa Stadium, Colombo",Sri Lanka,30-09-2012,15,13,Not Out,Dhoni,POTM,Won,T20I,5050
+116,119,2,6,0,0,33.33,3,caught,1,v South Africa,T20 World Cup,"R. Premadasa Stadium, Colombo",Sri Lanka,02-10-2012,16,14,,Dhoni,,Won,T20I,5052
+117,120,19,67,3,0,28.35,5,bowled,1,v England,,"Narendra Modi Stadium, Ahmedabad",India,15-11-2012,11,19,,Dhoni,,Won,Test,5071
+117,121,14,21,3,0,66.66,3,,4,v England,,"Narendra Modi Stadium, Ahmedabad",India,15-11-2012,11,20,Not Out,Dhoni,,Won,Test,5085
+118,122,19,55,3,0,34.54,5,caught,1,v England,,"Wankhede Stadium, Mumbai",India,23-11-2012,12,21,,Dhoni,,Lost,Test,5104
+118,123,7,13,1,0,53.84,5,caught,3,v England,,"Wankhede Stadium, Mumbai",India,23-11-2012,12,22,,Dhoni,,Lost,Test,5111
+119,124,6,24,1,0,25,5,caught,1,v England,,"Eden Gardens, Kolkata",India,05-12-2012,13,23,,Dhoni,,Lost,Test,5117
+119,125,20,60,3,0,33.33,5,caught,3,v England,,"Eden Gardens, Kolkata",India,05-12-2012,13,24,,Dhoni,,Lost,Test,5137
+120,126,103,295,11,0,34.91,5,lbw,2,v England,,"VCA Stadium, Nagpur",India,13-12-2012,14,25,,Dhoni,,Drawn,Test,5240
+121,127,21,17,2,0,123.52,3,bowled,2,v England,,"Maharashtra Cricket Association Stadium, Pune",India,20-12-2012,17,15,,Dhoni,,Won,T20I,5261
+122,128,38,20,7,0,190,3,lbw,1,v England,,"Wankhede Stadium, Mumbai",India,22-12-2012,18,16,,Dhoni,,Lost,T20I,5299
+123,129,9,11,1,0,81.81,3,caught,1,v Pakistan,,"M.Chinnaswamy Stadium, Bengaluru",India,25-12-2012,19,17,,Dhoni,,Lost,T20I,5308
+124,130,27,22,3,0,122.72,3,run out,1,v Pakistan,,"Narendra Modi Stadium, Ahmedabad",India,28-12-2012,20,18,,Dhoni,,Won,T20I,5335
+125,131,0,5,0,0,0,3,bowled,1,v Pakistan,,"M.A. Chidambaram Stadium, Chennai",India,30-12-2012,91,88,,Dhoni,,Lost,ODI,5335
+126,132,6,9,1,0,66.66,3,caught,2,v Pakistan,,"Eden Gardens, Kolkata",India,03-01-2013,92,89,,Dhoni,,Lost,ODI,5341
+127,133,7,17,1,0,41.17,3,caught,1,v Pakistan,,"Arun Jaitley Stadium, Delhi",India,06-01-2013,93,90,,Dhoni,,Won,ODI,5348
+128,134,15,22,1,0,68.18,3,caught,2,v England,,"Niranjan Shah Stadium, Rajkot",India,11-01-2013,94,91,,Dhoni,,Lost,ODI,5363
+129,135,37,54,1,1,68.51,3,caught,1,v England,,"Jawaharlal Nehru International Stadium, Kochi",India,15-01-2013,95,92,,Dhoni,,Won,ODI,5400
+130,136,77,79,9,2,97.46,3,,2,v England,,"JSCA Internation Stadium Complex, Ranchi",India,19-01-2013,96,93,Not Out,Dhoni,POTM,Won,ODI,5477
+131,137,26,33,3,0,78.78,3,caught,2,v England,,"I.S. Bindra Punjab Cricket Association Stadium, Mohali",India,23-01-2013,97,94,,Dhoni,,Won,ODI,5503
+132,138,0,1,0,0,0,3,caught,1,v England,,"Himachal Pradesh Cricket Association Stadium, Dharamshala",India,27-01-2013,98,95,,Dhoni,,Lost,ODI,5503
+133,139,107,206,15,1,51.94,5,caught,2,v Australia,Border-Gavaskar Trophy,"M.A. Chidambaram Stadium, Chennai",India,22-02-2013,15,26,,Dhoni,,Won,Test,5610
+133,,,,,,,,,4,v Australia,Border-Gavaskar Trophy,"M.A. Chidambaram Stadium, Chennai",India,22-02-2013,15,DNB,,Dhoni,,Won,Test,5610
+134,140,34,92,3,0,36.95,5,caught,2,v Australia,Border-Gavaskar Trophy,"Rajiv Gandhi International Cricket Stadium, Hyderabad",India,02-03-2013,16,27,,Dhoni,,Won,Test,5644
+135,141,67,129,7,1,51.93,5,,2,v Australia,Border-Gavaskar Trophy,"I.S. Bindra Punjab Cricket Association Stadium, Mohali",India,14-03-2013,17,28,Not Out,Dhoni,,Won,Test,5711
+135,142,34,61,6,0,55.73,3,caught,4,v Australia,Border-Gavaskar Trophy,"I.S. Bindra Punjab Cricket Association Stadium, Mohali",India,14-03-2013,17,29,,Dhoni,,Won,Test,5745
+136,143,1,8,0,0,12.5,3,lbw,2,v Australia,Border-Gavaskar Trophy,"Arun Jaitley Stadium, Delhi",India,22-03-2013,18,30,,Dhoni,,Won,Test,5746
+136,144,41,60,4,0,68.33,3,lbw,4,v Australia,Border-Gavaskar Trophy,"Arun Jaitley Stadium, Delhi",India,22-03-2013,18,31,,Dhoni,,Won,Test,5787
+137,145,31,41,2,0,75.6,3,caught,1,v South Africa,Champions Trophy,"Sophia Gardens Cricket Ground, Cardiff",England,06-06-2013,99,96,,Dhoni,,Won,ODI,5818
+138,146,22,18,4,0,122.22,3,bowled,2,v West Indies,Champions Trophy,"The Kia Oval, London",England,11-06-2013,100,97,,Dhoni,,Won,ODI,5840
+139,147,22,27,3,0,81.48,3,,2,v Pakistan,Champions Trophy,"Edgbaston Stadium, Birmingham",England,15-06-2013,101,98,Not Out,Dhoni,,Won,ODI,5862
+140,148,58,64,4,1,90.62,3,,2,v Sri Lanka,Champions Trophy,"Sophia Gardens Cricket Ground, Cardiff",England,20-06-2013,102,99,Not Out,Dhoni,,Won,ODI,5920
+141,149,43,34,4,1,126.47,3,caught,1,v England,Champions Trophy,"Edgbaston Stadium, Birmingham",England,23-06-2013,103,100,,Dhoni,,Won,ODI,5963
+142,150,11,21,0,1,52.38,3,caught,1,v West Indies,,"Sabina Park, Kingston",West Indies,30-06-2013,104,101,,Dhoni,,Lost,ODI,5974
+143,151,2,5,0,0,40,4,caught,2,v Sri Lanka,,"Sabina Park, Kingston",West Indies,02-07-2013,105,102,,Kohli,,Lost,ODI,5976
+144,152,102,83,13,2,122.89,3,caught,1,v West Indies,,"Queen's Park Oval, Port of Spain",West Indies,05-07-2013,106,103,,Kohli,POTM,Won,ODI,6078
+145,153,31,52,4,0,59.61,3,lbw,1,v Sri Lanka,,"Queen's Park Oval, Port of Spain",West Indies,09-07-2013,107,104,,Kohli,,Won,ODI,6109
+146,154,2,5,0,0,40,3,caught,2,v Sri Lanka,,"Queen's Park Oval, Port of Spain",West Indies,11-07-2013,108,105,,Dhoni,,Won,ODI,6111
+147,155,115,108,13,1,106.48,3,caught,2,v Zimbabwe,,"Harare Sports Club, Harare",Zimbabwe,24-07-2013,109,106,,Kohli,POTM,Won,ODI,6226
+148,156,14,18,2,0,77.77,3,caught,1,v Zimbabwe,,"Harare Sports Club, Harare",Zimbabwe,26-07-2013,110,107,,Kohli,,Won,ODI,6240
+149,157,68,88,5,1,77.27,3,,2,v Zimbabwe,,"Harare Sports Club, Harare",Zimbabwe,28-07-2013,111,108,Not Out,Kohli,,Won,ODI,6308
+150,,,,,,,,,2,v Zimbabwe,,"Queen's Sports Club Cricket Ground, Bulawayo",Zimbabwe,01-08-2013,112,DNB,,Kohli,,Won,ODI,6308
+151,,,,,,,,,2,v Zimbabwe,,"Queen's Sports Club Cricket Ground, Bulawayo",Zimbabwe,03-08-2013,113,DNB,,Kohli,,Won,ODI,6308
+152,158,29,22,2,1,131.81,4,caught,2,v Australia,,"Niranjan Shah Stadium, Rajkot",India,10-10-2013,21,19,,Dhoni,,Won,T20I,6337
+153,159,61,85,6,0,71.76,3,lbw,2,v Australia,,"Maharashtra Cricket Association Stadium, Pune",India,13-10-2013,114,109,,Dhoni,,Lost,ODI,6398
+154,160,100,52,8,7,192.3,3,,2,v Australia,,"Sawai Mansingh Stadium, Jaipur",India,16-10-2013,115,110,Not Out,Dhoni,,Won,ODI,6498
+155,161,68,73,9,0,93.15,3,caught,1,v Australia,,"I.S. Bindra Punjab Cricket Association Stadium, Mohali",India,19-10-2013,116,111,,Dhoni,,Lost,ODI,6566
+156,,,,,,,,,2,v Australia,,"JSCA Internation Stadium Complex, Ranchi",India,23-10-2013,117,DNB,,Dhoni,,NR,ODI,6566
+157,162,115,66,18,1,174.24,3,,2,v Australia,,"VCA Stadium, Nagpur",India,30-10-2013,118,112,Not Out,Dhoni,POTM,Won,ODI,6681
+158,163,0,3,0,0,0,3,run out,1,v Australia,,"M.Chinnaswamy Stadium, Bengaluru",India,02-11-2013,119,113,,Dhoni,,Won,ODI,6681
+159,164,3,5,0,0,60,5,caught,2,v West Indies,,"Eden Gardens, Kolkata",India,06-11-2013,19,32,,Dhoni,,Won,Test,6684
+160,165,57,78,5,0,73.07,5,caught,2,v West Indies,,"Wankhede Stadium, Mumbai",India,14-11-2013,20,33,,Dhoni,,Won,Test,6741
+161,166,86,84,9,2,102.38,3,caught,2,v West Indies,,"Jawaharlal Nehru International Stadium, Kochi",India,21-11-2013,120,114,,Dhoni,POTM,Won,ODI,6827
+162,167,99,100,9,0,99,3,caught,1,v West Indies,,"ACA-VDCA Cricket Stadium, Visakhapatnam",India,24-11-2013,121,115,,Dhoni,,Lost,ODI,6926
+163,168,19,18,3,0,105.55,3,caught,2,v West Indies,,"Green Park, Kanpur",India,27-11-2013,122,116,,Dhoni,,Won,ODI,6945
+164,169,31,35,5,0,88.57,3,caught,2,v South Africa,,"Wanderers Stadium, Johannesburg",South Africa,05-12-2013,123,117,,Dhoni,,Lost,ODI,6976
+165,170,0,5,0,0,0,3,caught,2,v South Africa,,"Kingsmead Cricket Stadium, Durban",South Africa,08-12-2013,124,118,,Dhoni,,Lost,ODI,6976
+166,,,,,,,,,-,v South Africa,,"SuperSport Park, Centurion",South Africa,11-12-2013,125,DNB,,Dhoni,,NR,ODI,6976
+167,171,119,181,18,0,65.74,4,caught,1,v South Africa,,"Wanderers Stadium, Johannesburg",South Africa,18-12-2013,21,34,,Dhoni,POTM,Drawn,Test,7095
+167,172,96,193,9,0,49.74,4,caught,3,v South Africa,,"Wanderers Stadium, Johannesburg",South Africa,18-12-2013,21,35,,Dhoni,,Drawn,Test,7191
+168,173,46,87,5,0,52.87,4,caught,1,v South Africa,,"Kingsmead Cricket Stadium, Durban",South Africa,26-12-2013,22,36,,Dhoni,,Lost,Test,7237
+168,174,11,27,1,0,40.74,4,caught,3,v South Africa,,"Kingsmead Cricket Stadium, Durban",South Africa,26-12-2013,22,37,,Dhoni,,Lost,Test,7248
+169,175,123,111,11,2,110.81,3,caught,2,v New Zealand,,"McLean Park, Napier",New Zealand,19-01-2014,126,119,,Dhoni,,Lost,ODI,7371
+170,176,78,65,7,2,120,3,caught,2,v New Zealand,,"Seddon Park, Hamilton",New Zealand,22-01-2014,127,120,,Dhoni,,Lost,ODI,7449
+171,177,6,20,1,0,30,3,caught,2,v New Zealand,,"Eden Park, Auckland",New Zealand,25-01-2014,128,121,,Dhoni,,Tied,ODI,7455
+172,178,2,10,0,0,20,2,caught,1,v New Zealand,,"Seddon Park, Hamilton",New Zealand,28-01-2014,129,122,,Dhoni,,Lost,ODI,7457
+173,179,82,78,7,3,105.12,3,caught,2,v New Zealand,,"Basin Reserve, Wellington",New Zealand,31-01-2014,130,123,,Dhoni,,Lost,ODI,7539
+174,180,4,13,1,0,30.76,4,caught,2,v New Zealand,,"Eden Park, Auckland",New Zealand,06-02-2014,23,38,,Dhoni,,Lost,Test,7543
+174,181,67,102,12,0,65.68,4,caught,4,v New Zealand,,"Eden Park, Auckland",New Zealand,06-02-2014,23,39,,Dhoni,,Lost,Test,7610
+175,182,38,93,4,0,40.86,5,caught,2,v New Zealand,,"Basin Reserve, Wellington",New Zealand,14-02-2014,24,40,,Dhoni,,Drawn,Test,7648
+175,183,105,135,15,1,77.77,4,,4,v New Zealand,,"Basin Reserve, Wellington",New Zealand,14-02-2014,24,41,Not Out,Dhoni,,Drawn,Test,7753
+176,184,136,122,16,2,111.47,3,bowled,2,v Bangladesh,Asia Cup,"Shaheed Ria Gope Stadium, Fatullah",Bangladesh,26-02-2014,131,124,,Kohli,POTM,Won,ODI,7889
+177,185,48,51,4,1,94.11,3,bowled,1,v Sri Lanka,Asia Cup,"Shaheed Ria Gope Stadium, Fatullah",Bangladesh,28-02-2014,132,125,,Kohli,,Lost,ODI,7937
+178,186,5,11,0,0,45.45,3,caught,1,v Pakistan,Asia Cup,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,02-03-2014,133,126,,Kohli,,Lost,ODI,7942
+179,,,,,,,,,2,v Afghanistan,Asia Cup,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,05-03-2014,134,DNB,,Kohli,,Won,ODI,7942
+180,187,36,32,4,1,112.5,3,,2,v Pakistan,T20 World Cup,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,21-03-2014,22,20,Not Out,Dhoni,,Won,T20I,7978
+181,188,54,41,5,1,131.7,3,bowled,2,v West Indies,T20 World Cup,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,23-03-2014,23,21,,Dhoni,,Won,T20I,8032
+182,189,57,50,3,1,114,3,,2,v Bangladesh,T20 World Cup,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,28-03-2014,24,22,Not Out,Dhoni,,Won,T20I,8089
+183,190,23,22,2,1,104.54,3,caught,1,v Australia,T20 World Cup,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,30-03-2014,25,23,,Dhoni,,Won,T20I,8112
+184,191,72,44,5,2,163.63,3,,2,v South Africa,T20 World Cup,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,04-04-2014,26,24,Not Out,Dhoni,POTM,Won,T20I,8184
+185,192,77,58,5,4,132.75,3,run out,1,v Sri Lanka,T20 World Cup,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,06-04-2014,27,25,,Dhoni,,Lost,T20I,8261
+186,193,1,8,0,0,12.5,4,caught,1,v England,,"Trent Bridge Cricket Ground, Nottingham",England,09-07-2014,25,42,,Dhoni,,Drawn,Test,8262
+186,194,8,29,1,0,27.58,4,lbw,3,v England,,"Trent Bridge Cricket Ground, Nottingham",England,09-07-2014,25,43,,Dhoni,,Drawn,Test,8270
+187,195,25,34,4,0,73.52,4,caught,1,v England,,"Lord's Cricket Ground, London",England,17-07-2014,26,44,,Dhoni,,Won,Test,8295
+187,196,0,1,0,0,0,4,bowled,3,v England,,"Lord's Cricket Ground, London",England,17-07-2014,26,45,,Dhoni,,Won,Test,8295
+188,197,39,75,3,0,52,4,caught,2,v England,,"Utilita Bowl, Southampton",England,27-07-2014,27,46,,Dhoni,,Lost,Test,8334
+188,198,28,56,3,0,50,4,caught,4,v England,,"Utilita Bowl, Southampton",England,27-07-2014,27,47,,Dhoni,,Lost,Test,8362
+189,199,0,2,0,0,0,4,caught,1,v England,,"Old Trafford Cricket Ground, Manchester",England,07-08-2014,28,48,,Dhoni,,Lost,Test,8362
+189,200,7,11,1,0,63.63,4,caught,3,v England,,"Old Trafford Cricket Ground, Manchester",England,07-08-2014,28,49,,Dhoni,,Lost,Test,8369
+190,201,6,18,1,0,33.33,4,lbw,1,v England,,"The Kia Oval, London",England,15-08-2014,29,50,,Dhoni,,Lost,Test,8375
+190,202,20,54,2,0,37.03,4,caught,3,v England,,"The Kia Oval, London",England,15-08-2014,29,51,,Dhoni,,Lost,Test,8395
+191,203,0,3,0,0,0,3,caught,1,v England,,"Sophia Gardens Cricket Ground, Cardiff",England,27-08-2014,135,127,,Dhoni,,Won,ODI,8395
+192,204,40,50,2,1,80,3,caught,2,v England,,"Trent Bridge Cricket Ground, Nottingham",England,30-08-2014,136,128,,Dhoni,,Won,ODI,8435
+193,205,1,3,0,0,33.33,3,,2,v England,,"Edgbaston Stadium, Birmingham",England,02-09-2014,137,129,Not Out,Dhoni,,Won,ODI,8436
+194,206,13,21,2,0,61.9,3,caught,2,v England,,"Headingley Cricket Ground, Leeds",England,05-09-2014,138,130,,Dhoni,,Lost,ODI,8449
+195,207,66,41,9,1,160.97,3,caught,2,v England,,"Edgbaston Stadium, Birmingham",England,07-09-2014,28,26,,Dhoni,,Lost,T20I,8515
+196,208,2,5,0,0,40,3,caught,2,v West Indies,,"Jawaharlal Nehru International Stadium, Kochi",India,08-10-2014,139,131,,Dhoni,,Lost,ODI,8517
+197,209,62,78,5,0,79.48,4,caught,1,v West Indies,,"Arun Jaitley Stadium, Delhi",India,11-10-2014,140,132,,Dhoni,,Won,ODI,8579
+198,210,127,114,13,3,111.4,3,run out,1,v West Indies,,"Himachal Pradesh Cricket Association Stadium, Dharamshala",India,17-10-2014,141,133,,Dhoni,,Won,ODI,8706
+199,211,22,21,2,0,104.76,4,caught,1,v Sri Lanka,,"Barabati Stadium, Cuttack",India,02-11-2014,142,134,,Kohli,,Won,ODI,8728
+200,212,49,44,2,2,111.36,4,caught,2,v Sri Lanka,,"Narendra Modi Stadium, Ahmedabad",India,06-11-2014,143,135,,Kohli,,Won,ODI,8777
+201,213,53,61,4,1,86.88,4,caught,2,v Sri Lanka,,"Rajiv Gandhi International Cricket Stadium, Hyderabad",India,09-11-2014,144,136,,Kohli,,Won,ODI,8830
+202,214,66,64,6,0,103.12,4,run out,1,v Sri Lanka,,"Eden Gardens, Kolkata",India,13-11-2014,145,137,,Kohli,,Won,ODI,8896
+203,215,139,126,12,3,110.31,4,,2,v Sri Lanka,,"JSCA Internation Stadium Complex, Ranchi",India,16-11-2014,146,138,Not Out,Kohli,POTM,Won,ODI,9035
+204,216,115,184,12,0,62.5,4,caught,2,v Australia,Border-Gavaskar Trophy,"Adelaide Oval, Adelaide",Australia,09-12-2014,30,52,,Kohli,,Lost,Test,9150
+204,217,141,175,16,1,80.57,4,caught,4,v Australia,Border-Gavaskar Trophy,"Adelaide Oval, Adelaide",Australia,09-12-2014,30,53,,Kohli,,Lost,Test,9291
+205,218,19,27,1,0,70.37,4,caught,1,v Australia,Border-Gavaskar Trophy,"The Gabba, Brisbane",Australia,17-12-2014,31,54,,Dhoni,,Lost,Test,9310
+205,219,1,11,0,0,9.09,4,bowled,3,v Australia,Border-Gavaskar Trophy,"The Gabba, Brisbane",Australia,17-12-2014,31,55,,Dhoni,,Lost,Test,9311
+206,220,169,272,18,0,62.13,4,caught,2,v Australia,Border-Gavaskar Trophy,"Melbourne Cricket Ground, Melbourne",Australia,26-12-2014,32,56,,Dhoni,,Drawn,Test,9480
+206,221,54,99,7,0,54.54,4,caught,4,v Australia,Border-Gavaskar Trophy,"Melbourne Cricket Ground, Melbourne",Australia,26-12-2014,32,57,,Dhoni,,Drawn,Test,9534
+207,222,147,230,20,0,63.91,4,caught,2,v Australia,Border-Gavaskar Trophy,"Sydney Cricket Ground, Sydney",Australia,06-01-2015,33,58,,Kohli,,Drawn,Test,9681
+207,223,46,95,3,0,48.42,4,caught,4,v Australia,Border-Gavaskar Trophy,"Sydney Cricket Ground, Sydney",Australia,06-01-2015,33,59,,Kohli,,Drawn,Test,9727
+208,224,9,16,0,0,56.25,4,caught,1,v Australia,,"Melbourne Cricket Ground, Melbourne",Australia,18-01-2015,147,139,,Dhoni,,Lost,ODI,9736
+209,225,4,8,0,0,50,4,caught,1,v England,,"The Gabba, Brisbane",Australia,20-01-2015,148,140,,Dhoni,,Lost,ODI,9740
+210,226,3,9,0,0,33.33,4,,1,v Australia,,"Sydney Cricket Ground, Sydney",Australia,26-01-2015,149,141,Not Out,Dhoni,,NR,ODI,9743
+211,227,8,19,0,0,42.1,3,caught,1,v England,,"WACA Ground, Perth",Australia,30-01-2015,150,142,,Dhoni,,Lost,ODI,9751
+212,228,107,126,8,0,84.92,3,caught,1,v Pakistan,ODI World Cup,"Adelaide Oval, Adelaide",Australia,15-02-2015,151,143,,Dhoni,POTM,Won,ODI,9858
+213,229,46,60,3,0,76.66,3,caught,1,v South Africa,ODI World Cup,"Melbourne Cricket Ground, Melbourne",Australia,22-02-2015,152,144,,Dhoni,,Won,ODI,9904
+214,230,33,41,5,0,80.48,3,,2,v U.A.E.,ODI World Cup,"WACA Ground, Perth",Australia,28-02-2015,153,145,Not Out,Dhoni,,Won,ODI,9937
+215,231,33,36,5,0,91.66,3,caught,2,v West Indies,ODI World Cup,"WACA Ground, Perth",Australia,06-03-2015,154,146,,Dhoni,,Won,ODI,9970
+216,232,44,42,4,1,104.76,3,,2,v Ireland,ODI World Cup,"Seddon Park, Hamilton",New Zealand,10-03-2015,155,147,Not Out,Dhoni,,Won,ODI,10014
+217,233,38,48,4,0,79.16,3,bowled,2,v Zimbabwe,ODI World Cup,"Eden Park, Auckland",New Zealand,14-03-2015,156,148,,Dhoni,,Won,ODI,10052
+218,234,3,8,0,0,37.5,3,caught,1,v Bangladesh,ODI World Cup,"Melbourne Cricket Ground, Melbourne",Australia,19-03-2015,157,149,,Dhoni,,Won,ODI,10055
+219,235,1,13,0,0,7.69,3,caught,2,v Australia,ODI World Cup,"Sydney Cricket Ground, Sydney",Australia,26-03-2015,158,150,,Dhoni,,Lost,ODI,10056
+220,236,14,22,2,0,63.63,4,bowled,1,v Bangladesh,,"Shaheed Ria Gope Stadium, Fatullah",Bangladesh,10-06-2015,34,60,,Kohli,,Drawn,Test,10070
+221,237,1,4,0,0,25,3,caught,2,v Bangladesh,,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,18-06-2015,159,151,,Dhoni,,Lost,ODI,10071
+222,238,23,27,3,1,85.18,3,lbw,1,v Bangladesh,,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,21-06-2015,160,152,,Dhoni,,Lost,ODI,10094
+223,239,25,35,1,0,71.42,3,bowled,1,v Bangladesh,,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,24-06-2015,161,153,,Dhoni,,Won,ODI,10119
+224,240,103,191,11,0,53.92,4,lbw,2,v Sri Lanka,,"Galle International Cricket Stadium, Galle",Sri Lanka,12-08-2015,35,61,,Kohli,,Lost,Test,10222
+224,241,3,10,0,0,30,5,caught,4,v Sri Lanka,,"Galle International Cricket Stadium, Galle",Sri Lanka,12-08-2015,35,62,,Kohli,,Lost,Test,10225
+225,242,78,107,8,1,72.89,4,caught,1,v Sri Lanka,,"P . Saravanamuttu Internation Cricket Stadium, Colombo",Sri Lanka,20-08-2015,36,63,,Kohli,,Won,Test,10303
+225,243,10,19,0,0,52.63,4,lbw,3,v Sri Lanka,,"P . Saravanamuttu Internation Cricket Stadium, Colombo",Sri Lanka,20-08-2015,36,64,,Kohli,,Won,Test,10313
+226,244,18,60,3,0,30,4,caught,1,v Sri Lanka,,"SSC Cricket Ground, Colombo",Sri Lanka,28-08-2015,37,65,,Kohli,,Won,Test,10331
+226,245,21,63,2,0,33.33,4,caught,3,v Sri Lanka,,"SSC Cricket Ground, Colombo",Sri Lanka,28-08-2015,37,66,,Kohli,,Won,Test,10352
+227,246,43,27,1,3,159.25,3,caught,1,v South Africa,,"Himachal Pradesh Cricket Association Stadium, Dharamshala",India,02-10-2015,29,27,,Dhoni,,Lost,T20I,10395
+228,247,1,1,0,0,100,3,run out,1,v South Africa,,"Barabati Stadium, Cuttack",India,05-10-2015,30,28,,Dhoni,,Lost,T20I,10396
+229,248,11,18,0,0,61.11,4,caught,2,v South Africa,,"Green Park, Kanpur",India,11-10-2015,162,154,,Dhoni,,Lost,ODI,10407
+230,249,12,18,0,0,66.66,4,run out,1,v South Africa,,"Holkar Stadium, Indore",India,14-10-2015,163,155,,Dhoni,,Won,ODI,10419
+231,250,77,99,5,0,77.77,3,caught,2,v South Africa,,"Niranjan Shah Stadium, Rajkot",India,18-10-2015,164,156,,Dhoni,,Lost,ODI,10496
+232,251,138,140,6,5,98.57,3,caught,1,v South Africa,,"M.A. Chidambaram Stadium, Chennai",India,22-10-2015,165,157,,Dhoni,POTM,Won,ODI,10634
+233,252,7,6,0,1,116.66,3,caught,2,v South Africa,,"Wankhede Stadium, Mumbai",India,25-10-2015,166,158,,Dhoni,,Lost,ODI,10641
+234,253,1,4,0,0,25,4,caught,1,v South Africa,,"I.S. Bindra Punjab Cricket Association Stadium, Mohali",India,05-11-2015,38,67,,Kohli,,Won,Test,10642
+234,254,29,71,4,0,40.84,4,caught,3,v South Africa,,"I.S. Bindra Punjab Cricket Association Stadium, Mohali",India,05-11-2015,38,68,,Kohli,,Won,Test,10671
+235,,,,,,,,,2,v South Africa,,"M.Chinnaswamy Stadium, Bengaluru",India,14-11-2015,39,DNB,,Kohli,,Drawn,Test,10671
+236,255,22,55,2,0,40,4,caught,1,v South Africa,,"VCA Stadium, Nagpur",India,25-11-2015,40,69,,Kohli,,Won,Test,10693
+236,256,16,30,2,0,53.33,4,caught,3,v South Africa,,"VCA Stadium, Nagpur",India,25-11-2015,40,70,,Kohli,,Won,Test,10709
+237,257,44,62,7,0,70.96,4,caught,1,v South Africa,,"Arun Jaitley Stadium, Delhi",India,03-12-2015,41,71,,Kohli,,Won,Test,10753
+237,258,88,165,10,0,53.33,5,lbw,3,v South Africa,,"Arun Jaitley Stadium, Delhi",India,03-12-2015,41,72,,Kohli,,Won,Test,10841
+238,259,91,97,9,1,93.81,3,caught,1,v Australia,,"WACA Ground, Perth",Australia,12-01-2016,167,159,,Dhoni,,Lost,ODI,10932
+239,260,59,67,4,0,88.05,3,run out,1,v Australia,,"The Gabba, Brisbane",Australia,15-01-2016,168,160,,Dhoni,,Lost,ODI,10991
+240,261,117,117,7,2,100,3,caught,1,v Australia,,"Melbourne Cricket Ground, Melbourne",Australia,17-01-2016,169,161,,Dhoni,,Lost,ODI,11108
+241,262,106,92,11,1,115.21,3,caught,2,v Australia,,"Carroboree Group Oval, Canberra",Australia,20-01-2016,170,162,,Dhoni,,Lost,ODI,11214
+242,263,8,11,1,0,72.72,3,caught,2,v Australia,,"Sydney Cricket Ground, Sydney",Australia,23-01-2016,171,163,,Dhoni,,Won,ODI,11222
+243,264,90,55,9,2,163.63,3,,1,v Australia,,"Adelaide Oval, Adelaide",Australia,26-01-2016,31,29,Not Out,Dhoni,POTM,Won,T20I,11312
+244,265,59,33,7,1,178.78,3,,1,v Australia,,"Melbourne Cricket Ground, Melbourne",Australia,29-01-2016,32,30,Not Out,Dhoni,POTM,Won,T20I,11371
+245,266,50,36,2,1,138.88,3,bowled,2,v Australia,,"Sydney Cricket Ground, Sydney",Australia,31-01-2016,33,31,,Dhoni,,Won,T20I,11421
+246,267,7,12,1,0,58.33,3,caught,1,v Bangladesh,Asia Cup,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,24-02-2016,34,32,,Dhoni,,Won,T20I,11428
+247,268,49,51,7,0,96.07,3,lbw,2,v Pakistan,Asia Cup,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,27-02-2016,35,33,,Dhoni,POTM,Won,T20I,11477
+248,269,56,47,7,0,119.14,3,,2,v Sri Lanka,Asia Cup,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,01-03-2016,36,34,Not Out,Dhoni,POTM,Won,T20I,11533
+249,,,,,,,,,2,v U.A.E.,Asia Cup,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,03-03-2016,37,DNB,,Dhoni,,Won,T20I,11533
+250,270,41,28,5,0,146.42,3,,2,v Bangladesh,Asia Cup,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,06-03-2016,38,35,Not Out,Dhoni,,Won,T20I,11574
+251,271,23,27,2,0,85.18,3,caught,2,v New Zealand,T20 World Cup,"VCA Stadium, Nagpur",India,15-03-2016,39,36,,Dhoni,,Lost,T20I,11597
+252,272,55,37,7,1,148.64,3,,2,v Pakistan,T20 World Cup,"Eden Gardens, Kolkata",India,19-03-2016,40,37,Not Out,Dhoni,POTM,Won,T20I,11652
+253,273,24,24,0,1,100,3,bowled,1,v Bangladesh,T20 World Cup,"M.Chinnaswamy Stadium, Bengaluru",India,23-03-2016,41,38,,Dhoni,,Won,T20I,11676
+254,274,82,51,9,2,160.78,3,,2,v Australia,T20 World Cup,"I.S. Bindra Punjab Cricket Association Stadium, Mohali",India,27-03-2016,42,39,Not Out,Dhoni,POTM,Won,T20I,11758
+255,275,89,47,11,1,189.36,3,,1,v West Indies,T20 World Cup,"Wankhede Stadium, Mumbai",India,31-03-2016,43,40,Not Out,Dhoni,,Lost,T20I,11847
+256,276,200,283,24,0,70.67,4,bowled,1,v West Indies,,"Sir Vivian Richards Stadium, North Sound",West Indies,21-07-2016,42,73,,Kohli,,Won,Test,12047
+257,277,44,90,4,1,48.88,4,caught,2,v West Indies,,"Sabina Park, Kingston",West Indies,30-07-2016,43,74,,Kohli,,Drawn,Test,12091
+258,278,3,8,0,0,37.5,3,caught,1,v West Indies,,"Darren Sammy Cricket Ground, Gros Islet",West Indies,09-08-2016,44,75,,Kohli,,Won,Test,12094
+258,279,4,17,0,0,23.52,3,lbw,3,v West Indies,,"Darren Sammy Cricket Ground, Gros Islet",West Indies,09-08-2016,44,76,,Kohli,,Won,Test,12098
+259,,,,,,,,,-,v West Indies,,"Queen's Park Oval, Port of Spain",West Indies,18-08-2016,45,DNB,,Kohli,,Drawn,Test,12098
+260,280,16,9,3,0,177.77,3,caught,2,v West Indies,,"Central Broward Park, Lauderhill",United States of America,27-08-2016,44,41,,Dhoni,,Lost,T20I,12114
+261,,,,,,,,,2,v West Indies,,"Central Broward Park, Lauderhill",United States of America,28-08-2016,45,DNB,,Dhoni,,NR,T20I,12114
+262,281,9,10,2,0,90,4,caught,1,v New Zealand,,"Green Park, Kanpur",India,22-09-2016,46,77,,Kohli,,Won,Test,12123
+262,282,18,40,3,0,45,4,caught,3,v New Zealand,,"Green Park, Kanpur",India,22-09-2016,46,78,,Kohli,,Won,Test,12141
+263,283,9,28,1,0,32.14,4,caught,1,v New Zealand,,"Eden Gardens, Kolkata",India,30-09-2016,47,79,,Kohli,,Won,Test,12150
+263,284,45,65,7,0,69.23,4,lbw,3,v New Zealand,,"Eden Gardens, Kolkata",India,30-09-2016,47,80,,Kohli,,Won,Test,12195
+264,285,211,366,20,0,57.65,4,lbw,1,v New Zealand,,"Holkar Stadium, Indore",India,08-10-2016,48,81,,Kohli,,Won,Test,12406
+264,286,17,28,1,0,60.71,4,lbw,3,v New Zealand,,"Holkar Stadium, Indore",India,08-10-2016,48,82,,Kohli,,Won,Test,12423
+265,287,85,81,9,1,104.93,3,,2,v New Zealand,,"Himachal Pradesh Cricket Association Stadium, Dharamshala",India,16-10-2016,172,164,Not Out,Dhoni,,Won,ODI,12508
+266,288,9,13,1,0,69.23,3,caught,2,v New Zealand,,"Arun Jaitley Stadium, Delhi",India,20-10-2016,173,165,,Dhoni,,Lost,ODI,12517
+267,289,154,134,16,1,114.92,3,,2,v New Zealand,,"I.S. Bindra Punjab Cricket Association Stadium, Mohali",India,23-10-2016,174,166,Not Out,Dhoni,POTM,Won,ODI,12671
+268,290,45,51,2,1,88.23,3,caught,2,v New Zealand,,"JSCA Internation Stadium Complex, Ranchi",India,26-10-2016,175,167,,Dhoni,,Lost,ODI,12716
+269,291,65,76,2,1,85.52,3,caught,1,v New Zealand,,"ACA-VDCA Cricket Stadium, Visakhapatnam",India,29-10-2016,176,168,,Dhoni,,Won,ODI,12781
+270,292,40,95,5,0,42.1,4,hit wicket,2,v England,,"Niranjan Shah Stadium, Rajkot",India,09-11-2016,49,83,,Kohli,,Drawn,Test,12821
+270,293,49,98,6,0,50,4,,4,v England,,"Niranjan Shah Stadium, Rajkot",India,09-11-2016,49,84,Not Out,Kohli,,Drawn,Test,12870
+271,294,167,267,18,0,62.54,4,caught,1,v England,,"ACA-VDCA Cricket Stadium, Visakhapatnam",India,17-11-2016,50,85,,Kohli,POTM,Won,Test,13037
+271,295,81,109,8,0,74.31,4,caught,3,v England,,"ACA-VDCA Cricket Stadium, Visakhapatnam",India,17-11-2016,50,86,,Kohli,,Won,Test,13118
+272,296,62,127,9,0,48.81,4,caught,2,v England,,"I.S. Bindra Punjab Cricket Association Stadium, Mohali",India,26-11-2016,51,87,,Kohli,,Won,Test,13180
+272,297,6,11,0,0,54.54,4,,4,v England,,"I.S. Bindra Punjab Cricket Association Stadium, Mohali",India,26-11-2016,51,88,Not Out,Kohli,,Won,Test,13186
+273,298,235,340,25,1,69.11,4,caught,2,v England,,"Wankhede Stadium, Mumbai",India,08-12-2016,52,89,,Kohli,POTM,Won,Test,13421
+274,299,15,29,1,0,51.72,4,caught,2,v England,,"M.A. Chidambaram Stadium, Chennai",India,16-12-2016,53,90,,Kohli,,Won,Test,13436
+275,300,122,105,8,5,116.19,3,caught,2,v England,,"Maharashtra Cricket Association Stadium, Pune",India,15-01-2017,177,169,,Kohli,,Won,ODI,13558
+276,301,8,5,2,0,160,3,caught,1,v England,,"Barabati Stadium, Cuttack",India,19-01-2017,178,170,,Kohli,,Won,ODI,13566
+277,302,55,63,8,0,87.3,3,caught,2,v England,,"Eden Gardens, Kolkata",India,22-01-2017,179,171,,Kohli,,Lost,ODI,13621
+278,303,29,26,4,0,111.53,1,caught,1,v England,,"Green Park, Kanpur",India,26-01-2017,46,42,,Kohli,,Lost,T20I,13650
+279,304,21,15,2,1,140,1,caught,1,v England,,"VCA Stadium, Nagpur",India,29-01-2017,47,43,,Kohli,,Won,T20I,13671
+280,305,2,4,0,0,50,1,run out,1,v England,,"M.Chinnaswamy Stadium, Bengaluru",India,01-02-2017,48,44,,Kohli,,Won,T20I,13673
+281,306,204,246,24,0,82.92,4,lbw,1,v Bangladesh,,"Rajiv Gandhi International Cricket Stadium, Hyderabad",India,09-02-2017,54,91,,Kohli,POTM,Won,Test,13877
+281,307,38,40,2,1,95,4,caught,3,v Bangladesh,,"Rajiv Gandhi International Cricket Stadium, Hyderabad",India,09-02-2017,54,92,,Kohli,,Won,Test,13915
+282,308,0,2,0,0,0,4,caught,2,v Australia,Border-Gavaskar Trophy,"Maharashtra Cricket Association Stadium, Pune",India,23-02-2017,55,93,,Kohli,,Lost,Test,13915
+282,309,13,37,1,0,35.13,4,bowled,4,v Australia,Border-Gavaskar Trophy,"Maharashtra Cricket Association Stadium, Pune",India,23-02-2017,55,94,,Kohli,,Lost,Test,13928
+283,310,12,17,2,0,70.58,4,lbw,1,v Australia,Border-Gavaskar Trophy,"M.Chinnaswamy Stadium, Bengaluru",India,04-03-2017,56,95,,Kohli,,Won,Test,13940
+283,311,15,25,1,0,60,4,lbw,3,v Australia,Border-Gavaskar Trophy,"M.Chinnaswamy Stadium, Bengaluru",India,04-03-2017,56,96,,Kohli,,Won,Test,13955
+284,312,6,23,0,0,26.08,4,caught,2,v Australia,Border-Gavaskar Trophy,"JSCA Internation Stadium Complex, Ranchi",India,16-03-2017,57,97,,Kohli,,Drawn,Test,13961
+285,313,81,68,6,3,119.11,3,,1,v Pakistan,Champions Trophy,"Edgbaston Stadium, Birmingham",England,04-06-2017,180,172,Not Out,Kohli,,Won,ODI,14042
+286,314,0,5,0,0,0,3,caught,1,v Sri Lanka,Champions Trophy,"The Kia Oval, London",England,08-06-2017,181,173,,Kohli,,Lost,ODI,14042
+287,315,76,101,7,1,75.24,3,,2,v South Africa,Champions Trophy,"The Kia Oval, London",England,11-06-2017,182,174,Not Out,Kohli,,Won,ODI,14118
+288,316,96,78,13,0,123.07,3,,2,v Bangladesh,Champions Trophy,"Edgbaston Stadium, Birmingham",England,15-06-2017,183,175,Not Out,Kohli,,Won,ODI,14214
+289,317,5,9,0,0,55.55,3,caught,2,v Pakistan,Champions Trophy,"The Kia Oval, London",England,18-06-2017,184,176,,Kohli,,Lost,ODI,14219
+290,318,32,47,1,0,68.08,3,,1,v West Indies,,"Queen's Park Oval, Port of Spain",West Indies,23-06-2017,185,177,Not Out,Kohli,,NR,ODI,14251
+291,319,87,66,4,4,131.81,3,caught,1,v West Indies,,"Queen's Park Oval, Port of Spain",West Indies,25-06-2017,186,178,,Kohli,,Won,ODI,14338
+292,320,11,22,2,0,50,3,caught,1,v West Indies,,"Sir Vivian Richards Stadium, North Sound",West Indies,30-06-2017,187,179,,Kohli,,Won,ODI,14349
+293,321,3,12,0,0,25,3,caught,2,v West Indies,,"Sir Vivian Richards Stadium, North Sound",West Indies,02-07-2017,188,180,,Kohli,,Lost,ODI,14352
+294,322,111,115,12,2,96.52,3,,2,v West Indies,,"Sabina Park, Kingston",West Indies,06-07-2017,189,181,Not Out,Kohli,POTM,Won,ODI,14463
+295,323,39,22,7,1,177.27,1,caught,1,v West Indies,,"Sabina Park, Kingston",West Indies,09-07-2017,49,45,,Kohli,,Lost,T20I,14502
+296,324,3,8,0,0,37.5,4,caught,1,v Sri Lanka,,"Galle International Cricket Stadium, Galle",Sri Lanka,26-07-2017,58,98,,Kohli,,Won,Test,14505
+296,325,103,136,5,1,75.73,4,,3,v Sri Lanka,,"Galle International Cricket Stadium, Galle",Sri Lanka,26-07-2017,58,99,Not Out,Kohli,,Won,Test,14608
+297,326,13,29,2,0,44.82,4,caught,1,v Sri Lanka,,"SSC Cricket Ground, Colombo",Sri Lanka,03-08-2017,59,100,,Kohli,,Won,Test,14621
+298,327,42,84,3,0,50,4,caught,1,v Sri Lanka,,"Pallekele International Cricket Stadium, Kandy",Sri Lanka,12-08-2017,60,101,,Kohli,,Won,Test,14663
+299,328,82,70,10,1,117.14,3,,2,v Sri Lanka,,"Rangiri Dambulla International Cricket Stadium, Dambulla",Sri Lanka,20-08-2017,190,182,Not Out,Kohli,,Won,ODI,14745
+300,329,4,2,1,0,200,5,bowled,2,v Sri Lanka,,"Pallekele International Cricket Stadium, Kandy",Sri Lanka,24-08-2017,191,183,,Kohli,,Won,ODI,14749
+301,330,3,11,0,0,27.27,3,caught,2,v Sri Lanka,,"Pallekele International Cricket Stadium, Kandy",Sri Lanka,27-08-2017,192,184,,Kohli,,Won,ODI,14752
+302,331,131,96,17,2,136.45,3,caught,1,v Sri Lanka,,"R. Premadasa Stadium, Colombo",Sri Lanka,31-08-2017,193,185,,Kohli,POTM,Won,ODI,14883
+303,332,110,116,9,0,94.82,3,,2,v Sri Lanka,,"R. Premadasa Stadium, Colombo",Sri Lanka,03-09-2017,194,186,Not Out,Kohli,,Won,ODI,14993
+304,333,82,54,7,1,151.85,3,caught,2,v Sri Lanka,,"R. Premadasa Stadium, Colombo",Sri Lanka,06-09-2017,50,46,,Kohli,POTM,Won,T20I,15075
+305,334,0,4,0,0,0,3,caught,1,v Australia,,"M.A. Chidambaram Stadium, Chennai",India,17-09-2017,195,187,,Kohli,,Won,ODI,15075
+306,335,92,107,8,0,85.98,3,bowled,1,v Australia,,"Eden Gardens, Kolkata",India,21-09-2017,196,188,,Kohli,POTM,Won,ODI,15167
+307,336,28,35,2,0,80,3,caught,2,v Australia,,"Holkar Stadium, Indore",India,24-09-2017,197,189,,Kohli,,Won,ODI,15195
+308,337,21,21,3,0,100,3,bowled,2,v Australia,,"M.Chinnaswamy Stadium, Bengaluru",India,28-09-2017,198,190,,Kohli,,Lost,ODI,15216
+309,338,39,55,2,0,70.9,3,caught,2,v Australia,,"VCA Stadium, Nagpur",India,01-10-2017,199,191,,Kohli,,Won,ODI,15255
+310,339,22,14,3,0,157.14,3,,2,v Australia,,"JSCA Internation Stadium Complex, Ranchi",India,07-10-2017,51,47,Not Out,Kohli,,Won,T20I,15277
+311,340,0,2,0,0,0,3,caught,1,v Australia,,"ACA Stadium, Guwahati",India,10-10-2017,52,48,,Kohli,,Lost,T20I,15277
+312,341,121,125,9,2,96.8,3,caught,1,v New Zealand,,"Wankhede Stadium, Mumbai",India,22-10-2017,200,192,,Kohli,,Lost,ODI,15398
+313,342,29,29,3,1,100,3,caught,2,v New Zealand,,"Maharashtra Cricket Association Stadium, Pune",India,25-10-2017,201,193,,Kohli,,Won,ODI,15427
+314,343,113,106,9,1,106.6,3,caught,1,v New Zealand,,"Green Park, Kanpur",India,29-10-2017,202,194,,Kohli,,Won,ODI,15540
+315,344,26,11,0,3,236.36,4,,1,v New Zealand,,"Arun Jaitley Stadium, Delhi",India,01-11-2017,53,49,Not Out,Kohli,,Won,T20I,15566
+316,345,65,42,8,1,154.76,4,caught,2,v New Zealand,,"Niranjan Shah Stadium, Rajkot",India,04-11-2017,54,50,,Kohli,,Lost,T20I,15631
+317,346,13,6,1,1,216.66,3,caught,1,v New Zealand,,"Greenfield International Stadium, Thiruvananthapuram",India,07-11-2017,55,51,,Kohli,,Won,T20I,15644
+318,347,0,11,0,0,0,4,lbw,1,v Sri Lanka,,"Eden Gardens, Kolkata",India,16-11-2017,61,102,,Kohli,,Drawn,Test,15644
+318,348,104,119,12,2,87.39,4,,3,v Sri Lanka,,"Eden Gardens, Kolkata",India,16-11-2017,61,103,Not Out,Kohli,,Drawn,Test,15748
+319,349,213,267,17,2,79.77,4,caught,2,v Sri Lanka,,"VCA Stadium, Nagpur",India,24-11-2017,62,104,,Kohli,POTM,Won,Test,15961
+320,350,243,287,25,0,84.66,4,lbw,1,v Sri Lanka,,"Arun Jaitley Stadium, Delhi",India,02-12-2017,63,105,,Kohli,POTM,Drawn,Test,16204
+320,351,50,58,3,0,86.2,5,caught,3,v Sri Lanka,,"Arun Jaitley Stadium, Delhi",India,02-12-2017,63,106,,Kohli,,Drawn,Test,16254
+321,352,5,13,0,0,38.46,4,caught,2,v South Africa,,"Newlands Cricket Ground, Cape Town",South Africa,05-01-2018,64,107,,Kohli,,Lost,Test,16259
+321,353,28,40,4,0,70,4,lbw,4,v South Africa,,"Newlands Cricket Ground, Cape Town",South Africa,05-01-2018,64,108,,Kohli,,Lost,Test,16287
+322,354,153,217,15,0,70.5,4,caught,2,v South Africa,,"SuperSport Park, Centurion",South Africa,13-01-2018,65,109,,Kohli,,Lost,Test,16440
+322,355,5,20,1,0,25,4,lbw,4,v South Africa,,"SuperSport Park, Centurion",South Africa,13-01-2018,65,110,,Kohli,,Lost,Test,16445
+323,356,54,106,9,0,50.94,4,caught,1,v South Africa,,"Wanderers Stadium, Johannesburg",South Africa,24-01-2018,66,111,,Kohli,,Won,Test,16499
+323,357,41,79,6,0,51.89,5,bowled,3,v South Africa,,"Wanderers Stadium, Johannesburg",South Africa,24-01-2018,66,112,,Kohli,,Won,Test,16540
+324,358,112,119,10,0,94.11,3,caught,2,v South Africa,,"Kingsmead Cricket Stadium, Durban",South Africa,01-02-2018,203,195,,Kohli,POTM,Won,ODI,16652
+325,359,46,50,4,1,92,3,,2,v South Africa,,"SuperSport Park, Centurion",South Africa,04-02-2018,204,196,Not Out,Kohli,,Won,ODI,16698
+326,360,160,159,12,2,100.62,3,,1,v South Africa,,"Newlands Cricket Ground, Cape Town",South Africa,07-02-2018,205,197,Not Out,Kohli,POTM,Won,ODI,16858
+327,361,75,83,7,1,90.36,3,caught,1,v South Africa,,"Wanderers Stadium, Johannesburg",South Africa,10-02-2018,206,198,,Kohli,,Lost,ODI,16933
+328,362,36,54,2,0,66.66,3,run out,1,v South Africa,,"St George's Park, Gqeberha",South Africa,13-02-2018,207,199,,Kohli,,Won,ODI,16969
+329,363,129,96,19,2,134.37,3,,2,v South Africa,,"SuperSport Park, Centurion",South Africa,16-02-2018,208,200,Not Out,Kohli,POTM,Won,ODI,17098
+330,364,26,20,2,1,130,4,lbw,1,v South Africa,,"Wanderers Stadium, Johannesburg",South Africa,18-02-2018,56,52,,Kohli,,Won,T20I,17124
+331,365,1,5,0,0,20,4,caught,1,v South Africa,,"SuperSport Park, Centurion",South Africa,21-02-2018,57,53,,Kohli,,Lost,T20I,17125
+332,366,0,2,0,0,0,6,caught,1,v Ireland,,"Malahide Cricket Ground, Dublin",Ireland,27-06-2018,58,54,,Kohli,,Won,T20I,17125
+333,367,9,8,1,0,112.5,2,caught,1,v Ireland,,"Malahide Cricket Ground, Dublin",Ireland,29-06-2018,59,55,,Kohli,,Won,T20I,17134
+334,368,20,22,0,1,90.9,4,,2,v England,,"Old Trafford Cricket Ground, Manchester",England,03-07-2018,60,56,Not Out,Kohli,,Won,T20I,17154
+335,369,47,38,1,2,123.68,4,caught,1,v England,,"Sophia Gardens Cricket Ground, Cardiff",England,06-07-2018,61,57,,Kohli,,Lost,T20I,17201
+336,370,43,29,2,2,148.27,4,caught,2,v England,,"Bristol County Ground, Bristol",England,08-07-2018,62,58,,Kohli,,Won,T20I,17244
+337,371,75,82,7,0,91.46,3,stumped,2,v England,,"Trent Bridge Cricket Ground, Nottingham",England,12-07-2018,209,201,,Kohli,,Won,ODI,17319
+338,372,45,56,2,0,80.35,3,lbw,2,v England,,"Lord's Cricket Ground, London",England,14-07-2018,210,202,,Kohli,,Lost,ODI,17364
+339,373,71,72,8,0,98.61,3,bowled,1,v England,,"Headingley Cricket Ground, Leeds",England,17-07-2018,211,203,,Kohli,,Lost,ODI,17435
+340,374,149,225,22,1,66.22,4,caught,2,v England,,"Edgbaston Stadium, Birmingham",England,01-08-2018,67,113,,Kohli,,Lost,Test,17584
+340,375,51,93,4,0,54.83,4,lbw,4,v England,,"Edgbaston Stadium, Birmingham",England,01-08-2018,67,114,,Kohli,,Lost,Test,17635
+341,376,23,57,2,0,40.35,4,caught,1,v England,,"Lord's Cricket Ground, London",England,09-08-2018,68,115,,Kohli,,Lost,Test,17658
+341,377,17,29,2,0,58.62,5,caught,3,v England,,"Lord's Cricket Ground, London",England,09-08-2018,68,116,,Kohli,,Lost,Test,17675
+342,378,97,152,11,0,63.81,4,caught,1,v England,,"Trent Bridge Cricket Ground, Nottingham",England,18-08-2018,69,117,,Kohli,,Won,Test,17772
+342,379,103,197,10,0,52.28,4,lbw,3,v England,,"Trent Bridge Cricket Ground, Nottingham",England,18-08-2018,69,118,,Kohli,POTM,Won,Test,17875
+343,380,46,71,6,0,64.78,4,caught,2,v England,,"Utilita Bowl, Southampton",England,30-08-2018,70,119,,Kohli,,Lost,Test,17921
+343,381,58,130,4,0,44.61,4,caught,4,v England,,"Utilita Bowl, Southampton",England,30-08-2018,70,120,,Kohli,,Lost,Test,17979
+344,382,49,70,6,0,70,4,caught,2,v England,,"The Kia Oval, London",England,07-09-2018,71,121,,Kohli,,Lost,Test,18028
+344,383,0,1,0,0,0,4,caught,4,v England,,"The Kia Oval, London",England,07-09-2018,71,122,,Kohli,,Lost,Test,18028
+345,384,139,230,10,0,60.43,4,caught,1,v West Indies,,"Niranjan Shah Stadium, Rajkot",India,04-10-2018,72,123,,Kohli,,Won,Test,18167
+346,385,45,78,5,0,57.69,4,lbw,2,v West Indies,,"Rajiv Gandhi International Cricket Stadium, Hyderabad",India,12-10-2018,73,124,,Kohli,,Won,Test,18212
+346,,,,,,,,,4,v West Indies,,"Rajiv Gandhi International Cricket Stadium, Hyderabad",India,12-10-2018,73,DNB,,Kohli,,Won,Test,18212
+347,386,140,107,21,2,130.84,3,stumped,2,v West Indies,,"ACA Stadium, Guwahati",India,21-10-2018,212,204,,Kohli,POTM,Won,ODI,18352
+348,387,157,129,13,4,121.7,3,,1,v West Indies,,"ACA-VDCA Cricket Stadium, Visakhapatnam",India,24-10-2018,213,205,Not Out,Kohli,POTM,Tied,ODI,18509
+349,388,107,119,10,1,89.91,3,bowled,2,v West Indies,,"Maharashtra Cricket Association Stadium, Pune",India,27-10-2018,214,206,,Kohli,,Lost,ODI,18616
+350,389,16,17,2,0,94.11,3,caught,1,v West Indies,,"Brabourne Stadium, Mumbai",India,29-10-2018,215,207,,Kohli,,Won,ODI,18632
+351,390,33,29,6,0,113.79,3,,2,v West Indies,,"Greenfield International Stadium, Thiruvananthapuram",India,01-11-2018,216,208,Not Out,Kohli,,Won,ODI,18665
+352,391,4,8,0,0,50,4,caught,2,v Australia,,"The Gabba, Brisbane",Australia,21-11-2018,63,59,,Kohli,,Lost,T20I,18669
+353,,,,,,,,,,v Australia,,"Melbourne Cricket Ground, Melbourne",Australia,23-11-2018,64,DNB,,Kohli,,NR,T20I,18669
+354,392,61,41,4,2,148.78,3,,2,v Australia,,"Sydney Cricket Ground, Sydney",Australia,25-11-2018,65,60,Not Out,Kohli,,Won,T20I,18730
+355,393,3,16,0,0,18.75,4,caught,1,v Australia,Border-Gavaskar Trophy,"Adelaide Oval, Adelaide",Australia,06-12-2018,74,125,,Kohli,,Won,Test,18733
+355,394,34,104,3,0,32.69,4,caught,3,v Australia,Border-Gavaskar Trophy,"Adelaide Oval, Adelaide",Australia,06-12-2018,74,126,,Kohli,,Won,Test,18767
+356,395,123,257,13,1,47.85,4,caught,2,v Australia,Border-Gavaskar Trophy,"Optus Stadium, Perth",Australia,14-12-2018,75,127,,Kohli,,Lost,Test,18890
+356,396,17,40,2,0,42.5,4,caught,4,v Australia,Border-Gavaskar Trophy,"Optus Stadium, Perth",Australia,14-12-2018,75,128,,Kohli,,Lost,Test,18907
+357,397,82,204,9,0,40.19,4,caught,1,v Australia,Border-Gavaskar Trophy,"Melbourne Cricket Ground, Melbourne",Australia,26-12-2018,76,129,,Kohli,,Won,Test,18989
+357,398,0,4,0,0,0,4,caught,3,v Australia,Border-Gavaskar Trophy,"Melbourne Cricket Ground, Melbourne",Australia,26-12-2018,76,130,,Kohli,,Won,Test,18989
+358,399,23,59,4,0,38.98,4,caught,1,v Australia,Border-Gavaskar Trophy,"Sydney Cricket Ground, Sydney",Australia,03-01-2019,77,131,,Kohli,,Drawn,Test,19012
+359,400,3,8,0,0,37.5,3,caught,2,v Australia,,"Sydney Cricket Ground, Sydney",Australia,12-01-2019,217,209,,Kohli,,Lost,ODI,19015
+360,401,104,112,5,2,92.85,3,caught,2,v Australia,,"Adelaide Oval, Adelaide",Australia,15-01-2019,218,210,,Kohli,POTM,Won,ODI,19119
+361,402,46,62,3,0,74.19,3,caught,2,v Australia,,"Melbourne Cricket Ground, Melbourne",Australia,18-01-2019,219,211,,Kohli,,Won,ODI,19165
+362,403,45,59,3,0,76.27,3,caught,2,v New Zealand,,"McLean Park, Napier",New Zealand,23-01-2019,220,212,,Kohli,,Won,ODI,19210
+363,404,43,45,5,0,95.55,3,caught,1,v New Zealand,,"Bay Oval, Mount Maunganui",New Zealand,26-01-2019,221,213,,Kohli,,Won,ODI,19253
+364,405,60,74,6,1,81.08,3,caught,2,v New Zealand,,"Bay Oval, Mount Maunganui",New Zealand,28-01-2019,222,214,,Kohli,,Won,ODI,19313
+365,406,24,17,3,0,141.17,3,caught,1,v Australia,,"ACA-VDCA Cricket Stadium, Visakhapatnam",India,24-02-2019,66,61,,Kohli,,Lost,T20I,19337
+366,407,72,38,2,6,189.47,3,,1,v Australia,,"M.Chinnaswamy Stadium, Bengaluru",India,27-02-2019,67,62,Not Out,Kohli,,Lost,T20I,19409
+367,408,44,45,6,1,97.77,3,lbw,2,v Australia,,"Rajiv Gandhi International Cricket Stadium, Hyderabad",India,02-03-2019,223,215,,Kohli,,Won,ODI,19453
+368,409,116,120,10,0,96.66,3,caught,1,v Australia,,"VCA Stadium, Nagpur",India,05-03-2019,224,216,,Kohli,POTM,Won,ODI,19569
+369,410,123,95,16,1,129.47,3,bowled,2,v Australia,,"JSCA Internation Stadium Complex, Ranchi",India,08-03-2019,225,217,,Kohli,,Lost,ODI,19692
+370,411,7,6,1,0,116.66,4,caught,1,v Australia,,"I.S. Bindra Punjab Cricket Association Stadium, Mohali",India,10-03-2019,226,218,,Kohli,,Lost,ODI,19699
+371,412,20,22,2,0,90.9,3,caught,2,v Australia,,"Arun Jaitley Stadium, Delhi",India,13-03-2019,227,219,,Kohli,,Lost,ODI,19719
+372,413,18,34,1,0,52.94,3,caught,2,v South Africa,ODI World Cup,"Utilita Bowl, Southampton",England,05-06-2019,228,220,,Kohli,,Won,ODI,19737
+373,414,82,77,4,2,106.49,3,caught,1,v Australia,ODI World Cup,"The Kia Oval, London",England,09-06-2019,229,221,,Kohli,,Won,ODI,19819
+374,415,77,65,7,0,118.46,3,caught,1,v Pakistan,ODI World Cup,"Old Trafford Cricket Ground, Manchester",England,16-06-2019,230,222,,Kohli,,Won,ODI,19896
+375,416,67,63,5,0,106.34,3,caught,1,v Afghanistan,ODI World Cup,"Utilita Bowl, Southampton",England,22-06-2019,231,223,,Kohli,,Won,ODI,19963
+376,417,72,82,8,0,87.8,3,caught,1,v West Indies,ODI World Cup,"Old Trafford Cricket Ground, Manchester",England,27-06-2019,232,224,,Kohli,POTM,Won,ODI,20035
+377,418,66,76,7,0,86.84,3,caught,2,v England,ODI World Cup,"Edgbaston Stadium, Birmingham",England,30-06-2019,233,225,,Kohli,,Lost,ODI,20101
+378,419,26,27,3,0,96.29,3,caught,1,v Bangladesh,ODI World Cup,"Edgbaston Stadium, Birmingham",England,02-07-2019,234,226,,Kohli,,Won,ODI,20127
+379,420,34,41,3,0,82.92,3,,2,v Sri Lanka,ODI World Cup,"Headingley Cricket Ground, Leeds",England,06-07-2019,235,227,Not Out,Kohli,,Won,ODI,20161
+380,421,1,6,0,0,16.66,3,lbw,2,v New Zealand,ODI World Cup,"Old Trafford Cricket Ground, Manchester",New Zealand,09-07-2019,236,228,,Kohli,,Lost,ODI,20162
+381,422,19,29,1,0,65.51,3,caught,2,v West Indies,,"Central Broward Park, Lauderhill",United States of America,03-08-2019,68,63,,Kohli,,Won,T20I,20181
+382,423,28,23,1,1,121.73,3,bowled,1,v West Indies,,"Central Broward Park, Lauderhill",United States of America,04-08-2019,69,64,,Kohli,,Won,T20I,20209
+383,424,59,45,6,0,131.11,3,caught,2,v West Indies,,"Providence Cricket Stadium, Georgetown",West Indies,06-08-2019,70,65,,Kohli,,Won,T20I,20268
+384,,,,,,,,,-,v West Indies,,"Providence Cricket Stadium, Georgetown",West Indies,08-08-2019,237,DNB,,Kohli,,NR,ODI,20268
+385,425,120,125,14,1,96,3,caught,1,v West Indies,,"Queen's Park Oval, Port of Spain",West Indies,11-08-2019,238,229,,Kohli,POTM,Won,ODI,20388
+386,426,114,99,14,0,115.15,3,,2,v West Indies,,"Queen's Park Oval, Port of Spain",West Indies,14-08-2019,239,230,Not Out,Kohli,POTM,Won,ODI,20502
+387,427,9,12,2,0,75,4,caught,1,v West Indies,,"Sir Vivian Richards Stadium, North Sound",West Indies,22-08-2019,78,132,,Kohli,,Won,Test,20511
+387,428,51,113,2,0,45.13,4,caught,3,v West Indies,,"Sir Vivian Richards Stadium, North Sound",West Indies,22-08-2019,78,133,,Kohli,,Won,Test,20562
+388,429,76,163,10,0,46.62,4,caught,1,v West Indies,,"Sabina Park, Kingston",West Indies,30-08-2019,79,134,,Kohli,,Won,Test,20638
+388,430,0,1,0,0,0,4,caught,3,v West Indies,,"Sabina Park, Kingston",West Indies,30-08-2019,79,135,,Kohli,,Won,Test,20638
+389,431,72,52,4,3,138.46,3,,2,v South Africa,,"I.S. Bindra Punjab Cricket Association Stadium, Mohali",India,18-09-2019,71,66,Not Out,Kohli,POTM,Won,T20I,20710
+390,432,9,15,0,0,60,3,caught,1,v South Africa,,"M.Chinnaswamy Stadium, Bengaluru",India,22-09-2019,72,67,,Kohli,,Lost,T20I,20719
+391,433,20,40,4,0,50,4,caught,1,v South Africa,,"ACA-VDCA Cricket Stadium, Visakhapatnam",India,02-10-2019,80,136,,Kohli,,Won,Test,20739
+391,434,31,25,3,1,124,5,,3,v South Africa,,"ACA-VDCA Cricket Stadium, Visakhapatnam",India,02-10-2019,80,137,Not Out,Kohli,,Won,Test,20770
+392,435,254,336,33,2,75.59,4,,1,v South Africa,,"Maharashtra Cricket Association Stadium, Pune",India,10-10-2019,81,138,Not Out,Kohli,POTM,Won,Test,21024
+393,436,12,22,2,0,54.54,4,lbw,1,v South Africa,,"JSCA Internation Stadium Complex, Ranchi",India,19-10-2019,82,139,,Kohli,,Won,Test,21036
+394,437,0,2,0,0,0,4,lbw,2,v Bangladesh,,"Holkar Stadium, Indore",India,14-11-2019,83,140,,Kohli,,Won,Test,21036
+395,438,136,194,18,0,70.1,4,caught,2,v Bangladesh,,"Eden Gardens, Kolkata",India,22-11-2019,84,141,,Kohli,,Won,Test,21172
+396,439,94,50,6,6,188,3,,2,v West Indies,,"Rajiv Gandhi International Cricket Stadium, Hyderabad",India,06-12-2019,73,68,Not Out,Kohli,POTM,Won,T20I,21266
+397,440,19,17,2,0,111.76,4,caught,1,v West Indies,,"Greenfield International Stadium, Thiruvananthapuram",India,08-12-2019,74,69,,Kohli,,Lost,T20I,21285
+398,441,70,29,4,7,241.37,4,,1,v West Indies,,"Wankhede Stadium, Mumbai",India,11-12-2019,75,70,Not Out,Kohli,,Won,T20I,21355
+399,442,4,4,1,0,100,3,bowled,1,v West Indies,,"M.A. Chidambaram Stadium, Chennai",India,15-12-2019,240,231,,Kohli,,Lost,ODI,21359
+400,443,0,1,0,0,0,3,caught,1,v West Indies,,"ACA-VDCA Cricket Stadium, Visakhapatnam",India,18-12-2019,241,232,,Kohli,,Won,ODI,21359
+401,444,85,81,9,0,104.93,3,bowled,2,v West Indies,,"Barabati Stadium, Cuttack",India,22-12-2019,242,233,,Kohli,POTM,Won,ODI,21444
+402,,,,,,,,,,v Sri Lanka,,"ACA Stadium, Guwahati",India,05-01-2020,76,DNB,,Kohli,,NR,T20I,21444
+403,445,30,17,1,2,176.47,4,,2,v Sri Lanka,,"Holkar Stadium, Indore",India,07-01-2020,77,71,Not Out,Kohli,,Won,T20I,21474
+404,446,26,17,2,1,152.94,6,run out,1,v Sri Lanka,,"Maharashtra Cricket Association Stadium, Pune",India,10-01-2020,78,72,,Kohli,,Won,T20I,21500
+405,447,16,14,0,1,114.28,4,caught,1,v Australia,,"Wankhede Stadium, Mumbai",India,14-01-2020,243,234,,Kohli,,Lost,ODI,21516
+406,448,78,76,6,0,102.63,3,caught,1,v Australia,,"Niranjan Shah Stadium, Rajkot",India,17-01-2020,244,235,,Kohli,,Won,ODI,21594
+407,449,89,91,8,0,97.8,3,bowled,2,v Australia,,"M.Chinnaswamy Stadium, Bengaluru",India,19-01-2020,245,236,,Kohli,,Won,ODI,21683
+408,450,45,32,3,1,140.62,3,caught,2,v New Zealand,,"Eden Park, Auckland",New Zealand,24-01-2020,79,73,,Kohli,,Won,T20I,21728
+409,451,11,12,1,0,91.66,3,caught,2,v New Zealand,,"Eden Park, Auckland",New Zealand,26-01-2020,80,74,,Kohli,,Won,T20I,21739
+410,452,38,27,2,1,140.74,4,caught,1,v New Zealand,,"Seddon Park, Hamilton",New Zealand,29-01-2020,81,75,,Kohli,,Won,T20I,21777
+411,453,11,9,2,0,122.22,3,caught,1,v New Zealand,,"Basin Reserve, Wellington",New Zealand,31-01-2020,82,76,,Kohli,,Won,T20I,21788
+412,454,51,63,6,0,80.95,3,bowled,1,v New Zealand,,"Seddon Park, Hamilton",New Zealand,05-02-2020,246,237,,Kohli,,Lost,ODI,21839
+413,455,15,25,1,0,60,3,bowled,2,v New Zealand,,"Eden Park, Auckland",New Zealand,08-02-2020,247,238,,Kohli,,Lost,ODI,21854
+414,456,9,12,0,1,75,3,caught,1,v New Zealand,,"Bay Oval, Mount Maunganui",New Zealand,11-02-2020,248,239,,Kohli,,Lost,ODI,21863
+415,457,2,7,0,0,28.57,4,caught,1,v New Zealand,,"Basin Reserve, Wellington",New Zealand,21-02-2020,85,142,,Kohli,,Lost,Test,21865
+415,458,19,43,3,0,44.18,4,caught,3,v New Zealand,,"Basin Reserve, Wellington",New Zealand,21-02-2020,85,143,,Kohli,,Lost,Test,21884
+416,459,3,15,0,0,20,4,lbw,1,v New Zealand,,"Hagley Oval, Christchurch",New Zealand,29-02-2020,86,144,,Kohli,,Lost,Test,21887
+416,460,14,30,3,0,46.66,4,lbw,3,v New Zealand,,"Hagley Oval, Christchurch",New Zealand,29-02-2020,86,145,,Kohli,,Lost,Test,21901
+417,461,21,21,2,1,100,3,caught,2,v Australia,,"Sydney Cricket Ground, Sydney",Australia,27-11-2020,249,240,,Kohli,,Lost,ODI,21922
+418,462,89,87,7,2,102.29,3,caught,2,v Australia,,"Sydney Cricket Ground, Sydney",Australia,29-11-2020,250,241,,Kohli,,Lost,ODI,22011
+419,463,63,78,5,0,80.76,3,caught,1,v Australia,,"Carroboree Group Oval, Canberra",Australia,02-12-2020,251,242,,Kohli,,Won,ODI,22074
+420,464,9,9,1,0,100,3,caught,1,v Australia,,"Carroboree Group Oval, Canberra",Australia,04-12-2020,83,77,,Kohli,,Won,T20I,22083
+421,465,40,24,2,2,166.66,3,caught,2,v Australia,,"Sydney Cricket Ground, Sydney",Australia,06-12-2020,84,78,,Kohli,,Won,T20I,22123
+422,466,85,61,4,3,139.34,3,caught,2,v Australia,,"Sydney Cricket Ground, Sydney",Australia,08-12-2020,85,79,,Kohli,,Lost,T20I,22208
+423,467,74,180,8,0,41.11,4,run out,1,v Australia,Border-Gavaskar Trophy,"Adelaide Oval, Adelaide",Australia,17-12-2020,87,146,,Kohli,,Lost,Test,22282
+423,468,4,8,1,0,50,5,caught,3,v Australia,Border-Gavaskar Trophy,"Adelaide Oval, Adelaide",Australia,17-12-2020,87,147,,Kohli,,Lost,Test,22286
+424,469,11,48,0,0,22.91,4,caught,2,v England,,"M.A. Chidambaram Stadium, Chennai",India,05-02-2021,88,148,,Kohli,,Lost,Test,22297
+424,470,72,104,9,0,69.23,4,bowled,4,v England,,"M.A. Chidambaram Stadium, Chennai",India,05-02-2021,88,149,,Kohli,,Lost,Test,22369
+425,471,0,5,0,0,0,4,bowled,1,v England,,"M.A. Chidambaram Stadium, Chennai",India,13-02-2021,89,150,,Kohli,,Won,Test,22369
+425,472,62,149,7,0,41.61,4,lbw,3,v England,,"M.A. Chidambaram Stadium, Chennai",India,13-02-2021,89,151,,Kohli,,Won,Test,22431
+426,473,27,58,3,0,46.55,4,bowled,2,v England,,"Narendra Modi Stadium, Ahmedabad",India,24-02-2021,90,152,,Kohli,,Won,Test,22458
+426,,,,,,,,,4,v England,,"Narendra Modi Stadium, Ahmedabad",India,24-02-2021,90,DNB,,Kohli,,Won,Test,22458
+427,474,0,8,0,0,0,4,caught,2,v England,,"Narendra Modi Stadium, Ahmedabad",India,04-03-2021,91,153,,Kohli,,Won,Test,22458
+428,475,0,5,0,0,0,3,caught,1,v England,,"Narendra Modi Stadium, Ahmedabad",India,12-03-2021,86,80,,Kohli,,Lost,T20I,22458
+429,476,73,49,5,3,148.97,3,,2,v England,,"Narendra Modi Stadium, Ahmedabad",India,14-03-2021,87,81,Not Out,Kohli,,Won,T20I,22531
+430,477,77,46,8,4,167.39,4,,1,v England,,"Narendra Modi Stadium, Ahmedabad",India,16-03-2021,88,82,Not Out,Kohli,,Lost,T20I,22608
+431,478,1,5,0,0,20,4,stumped,1,v England,,"Narendra Modi Stadium, Ahmedabad",India,18-03-2021,89,83,,Kohli,,Won,T20I,22609
+432,479,80,52,7,2,153.84,2,,1,v England,,"Narendra Modi Stadium, Ahmedabad",India,20-03-2021,90,84,Not Out,Kohli,,Won,T20I,22689
+433,480,56,60,6,0,93.33,3,caught,1,v England,,"Maharashtra Cricket Association Stadium, Pune",India,23-03-2021,252,243,,Kohli,,Won,ODI,22745
+434,481,66,79,3,1,83.54,3,caught,1,v England,,"Maharashtra Cricket Association Stadium, Pune",India,26-03-2021,253,244,,Kohli,,Lost,ODI,22811
+435,482,7,10,1,0,70,3,bowled,1,v England,,"Maharashtra Cricket Association Stadium, Pune",India,28-03-2021,254,245,,Kohli,,Won,ODI,22818
+436,483,44,132,1,0,33.33,4,lbw,1,v New Zealand,WTC Final,"Utilita Bowl, Southampton",England,18-06-2021,92,154,,Kohli,,Lost,Test,22862
+436,484,13,29,0,0,44.82,4,caught,3,v New Zealand,WTC Final,"Utilita Bowl, Southampton",England,18-06-2021,92,155,,Kohli,,Lost,Test,22875
+437,485,0,1,0,0,0,4,caught,2,v England,,"Trent Bridge Cricket Ground, Nottingham",England,04-08-2021,93,156,,Kohli,,Drawn,Test,22875
+437,,,,,,,,,4,v England,,"Trent Bridge Cricket Ground, Nottingham",England,04-08-2021,93,DNB,,Kohli,,Drawn,Test,22875
+438,486,42,103,3,0,40.77,4,caught,1,v England,,"Lord's Cricket Ground, London",England,12-08-2021,94,157,,Kohli,,Won,Test,22917
+438,487,20,31,4,0,64.51,4,caught,3,v England,,"Lord's Cricket Ground, London",England,12-08-2021,94,158,,Kohli,,Won,Test,22937
+439,488,7,17,1,0,41.17,4,caught,1,v England,,"Headingley Cricket Ground, Leeds",England,25-08-2021,95,159,,Kohli,,Lost,Test,22944
+439,489,55,125,8,0,44,4,caught,3,v England,,"Headingley Cricket Ground, Leeds",England,25-08-2021,95,160,,Kohli,,Lost,Test,22999
+440,490,50,96,8,0,52.08,4,caught,1,v England,,"The Kia Oval, London",England,02-09-2021,96,161,,Kohli,,Won,Test,23049
+440,491,44,96,7,0,45.83,4,caught,3,v England,,"The Kia Oval, London",England,02-09-2021,96,162,,Kohli,,Won,Test,23093
+441,492,57,49,5,1,116.32,3,caught,1,v Pakistan,T20 World Cup,"Dubai International Stadium, Dubai",United Arab Emirates,24-10-2021,91,85,,Kohli,,Lost,T20I,23150
+442,493,9,17,0,0,52.94,4,caught,1,v New Zealand,T20 World Cup,"Dubai International Stadium, Dubai",United Arab Emirates,31-10-2021,92,86,,Kohli,,Lost,T20I,23159
+443,,,,,,,,,1,v Afghanistan,T20 World Cup,"Zayed Cricket Stadium, Abu Dhabi",United Arab Emirates,03-11-2021,93,DNB,,Kohli,,Won,T20I,23159
+444,494,2,2,0,0,100,3,,2,v Scotland,T20 World Cup,"Dubai International Stadium, Dubai",United Arab Emirates,05-11-2021,94,87,Not Out,Kohli,,Won,T20I,23161
+445,,,,,,,,,2,v Namibia,T20 World Cup,"Dubai International Stadium, Dubai",United Arab Emirates,08-11-2021,95,DNB,,Kohli,,Won,T20I,23161
+446,495,0,4,0,0,0,4,lbw,1,v New Zealand,,"Wankhede Stadium, Mumbai",India,03-12-2021,97,163,,Kohli,,Won,Test,23161
+446,496,36,84,1,1,42.85,4,bowled,3,v New Zealand,,"Wankhede Stadium, Mumbai",India,03-12-2021,97,164,,Kohli,,Won,Test,23197
+447,497,35,94,4,0,37.23,4,caught,1,v South Africa,,"SuperSport Park, Centurion",South Africa,26-12-2021,98,165,,Kohli,,Won,Test,23232
+447,498,18,32,4,0,56.25,5,caught,3,v South Africa,,"SuperSport Park, Centurion",South Africa,26-12-2021,98,166,,Kohli,,Won,Test,23250
+448,499,79,201,12,1,39.3,4,caught,1,v South Africa,,"Newlands Cricket Ground, Cape Town",South Africa,11-01-2022,99,167,,Kohli,,Lost,Test,23329
+448,500,29,143,4,0,20.27,4,caught,3,v South Africa,,"Newlands Cricket Ground, Cape Town",South Africa,11-01-2022,99,168,,Kohli,,Lost,Test,23358
+449,501,51,63,3,0,80.95,3,caught,2,v South Africa,,"Boland Park, Paarl",South Africa,19-01-2022,255,246,,KL Rahul,,Lost,ODI,23409
+450,502,0,5,0,0,0,3,caught,1,v South Africa,,"Boland Park, Paarl",South Africa,21-01-2022,256,247,,KL Rahul,,Lost,ODI,23409
+451,503,65,84,5,0,77.38,3,caught,2,v South Africa,,"Newlands Cricket Ground, Cape Town",South Africa,23-01-2022,257,248,,KL Rahul,,Lost,ODI,23474
+452,504,8,4,2,0,200,3,caught,2,v West Indies,,"Narendra Modi Stadium, Ahmedabad",India,06-02-2022,258,249,,Rohit,,Won,ODI,23482
+453,505,18,30,3,0,60,3,caught,1,v West Indies,,"Narendra Modi Stadium, Ahmedabad",India,09-02-2022,259,250,,Rohit,,Won,ODI,23500
+454,506,0,2,0,0,0,3,caught,1,v West Indies,,"Narendra Modi Stadium, Ahmedabad",India,11-02-2022,260,251,,Rohit,,Won,ODI,23500
+455,507,17,13,1,0,130.76,3,caught,2,v West Indies,,"Eden Gardens, Kolkata",India,16-02-2022,96,88,,Rohit,,Won,T20I,23517
+456,508,52,41,7,1,126.82,3,bowled,1,v West Indies,,"Eden Gardens, Kolkata",India,18-02-2022,97,89,,Rohit,,Won,T20I,23569
+457,509,45,76,5,0,59.21,4,bowled,1,v Sri Lanka,,"I.S. Bindra Punjab Cricket Association Stadium, Mohali",India,04-03-2022,100,169,,Rohit,,Won,Test,23614
+458,510,23,48,2,0,47.91,4,lbw,1,v Sri Lanka,,"M.Chinnaswamy Stadium, Bengaluru",India,12-03-2022,101,170,,Rohit,,Won,Test,23637
+458,511,13,16,1,0,81.25,4,lbw,3,v Sri Lanka,,"M.Chinnaswamy Stadium, Bengaluru",India,12-03-2022,101,171,,Rohit,,Won,Test,23650
+459,512,11,19,2,0,57.89,4,bowled,1,v England,,"Edgbaston Stadium, Birmingham",England,01-07-2022,102,172,,Bumrah,,Lost,Test,23661
+459,513,20,40,4,0,50,4,caught,3,v England,,"Edgbaston Stadium, Birmingham",England,01-07-2022,102,173,,Bumrah,,Lost,Test,23681
+460,514,1,3,0,0,33.33,3,caught,1,v England,,"Edgbaston Stadium, Birmingham",England,09-07-2022,98,90,,Rohit,,Won,T20I,23682
+461,515,11,6,1,1,183.33,3,caught,2,v England,,"Trent Bridge Cricket Ground, Nottingham",England,10-07-2022,99,91,,Rohit,,Lost,T20I,23693
+462,516,16,25,3,0,64,3,caught,2,v England,,"Lord's Cricket Ground, London",England,14-07-2022,261,252,,Rohit,,Lost,ODI,23709
+463,517,17,22,3,0,77.27,3,caught,2,v England,,"Old Trafford Cricket Ground, Manchester",England,17-07-2022,262,253,,Rohit,,Won,ODI,23726
+464,518,35,34,3,1,102.94,3,caught,2,v Pakistan,Asia Cup,"Dubai International Stadium, Dubai",United Arab Emirates,28-08-2022,100,92,,Rohit,,Won,T20I,23761
+465,519,59,44,1,3,134.09,3,,1,v Hong Kong,Asia Cup,"Dubai International Stadium, Dubai",United Arab Emirates,31-08-2022,101,93,Not Out,Rohit,,Won,T20I,23820
+466,520,60,44,4,1,136.36,3,run out,1,v Pakistan,Asia Cup,"Dubai International Stadium, Dubai",United Arab Emirates,04-09-2022,102,94,,Rohit,,Lost,T20I,23880
+467,521,0,4,0,0,0,3,bowled,1,v Sri Lanka,Asia Cup,"Dubai International Stadium, Dubai",United Arab Emirates,06-09-2022,103,95,,Rohit,,Lost,T20I,23880
+468,522,122,61,12,6,200,2,,1,v Afghanistan,Asia Cup,"Dubai International Stadium, Dubai",United Arab Emirates,08-09-2022,104,96,Not Out,KL Rahul,POTM,Won,T20I,24002
+469,523,2,7,0,0,28.57,3,caught,1,v Australia,,"I.S. Bindra Punjab Cricket Association Stadium, Mohali",India,20-09-2022,105,97,,Rohit,,Lost,T20I,24004
+470,524,11,6,2,0,183.33,3,bowled,2,v Australia,,"VCA Stadium, Nagpur",India,23-09-2022,106,98,,Rohit,,Won,T20I,24015
+471,525,63,48,3,4,131.25,3,caught,2,v Australia,,"Rajiv Gandhi International Cricket Stadium, Hyderabad",India,25-09-2022,107,99,,Rohit,,Won,T20I,24078
+472,526,3,9,0,0,33.33,3,caught,2,v South Africa,,"Greenfield International Stadium, Thiruvananthapuram",India,28-09-2022,108,100,,Rohit,,Won,T20I,24081
+473,527,49,28,7,1,175,3,,1,v South Africa,,"ACA Stadium, Guwahati",India,02-10-2022,109,101,Not Out,Rohit,,Won,T20I,24130
+474,528,82,53,6,4,154.71,3,,2,v Pakistan,T20 World Cup,"Melbourne Cricket Ground, Melbourne",Australia,23-10-2022,110,102,Not Out,Rohit,POTM,Won,T20I,24212
+475,529,62,44,3,2,140.9,3,,1,v Netherlands,T20 World Cup,"Sydney Cricket Ground, Sydney",Australia,27-10-2022,111,103,Not Out,Rohit,,Won,T20I,24274
+476,530,12,11,2,0,109.09,3,caught,1,v South Africa,T20 World Cup,"Optus Stadium, Perth",Australia,30-10-2022,112,104,,Rohit,,Lost,T20I,24286
+477,531,64,44,8,1,145.45,3,,1,v Bangladesh,T20 World Cup,"Adelaide Oval, Adelaide",Australia,02-11-2022,113,105,Not Out,Rohit,POTM,Won,T20I,24350
+478,532,26,25,2,0,104,3,caught,1,v Zimbabwe,T20 World Cup,"Melbourne Cricket Ground, Melbourne",Australia,06-11-2022,114,106,,Rohit,,Won,T20I,24376
+479,533,50,40,4,1,125,3,caught,1,v England,T20 World Cup,"Adelaide Oval, Adelaide",Australia,10-11-2022,115,107,,Rohit,,Lost,T20I,24426
+480,534,9,15,1,0,60,3,caught,1,v Bangladesh,,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,04-12-2022,263,254,,Rohit,,Lost,ODI,24435
+481,535,5,6,1,0,83.33,1,bowled,2,v Bangladesh,,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,07-12-2022,264,255,,Rohit,,Lost,ODI,24440
+482,536,113,91,11,2,124.17,3,caught,1,v Bangladesh,,"Bir Shrestha Shahid Flight Lieutenant Motiur Rahman Cricket Stadium, Chittagong",Bangladesh,10-12-2022,265,256,,KL Rahul,,Won,ODI,24553
+483,537,1,5,0,0,20,4,lbw,1,v Bangladesh,,"Bir Shrestha Shahid Flight Lieutenant Motiur Rahman Cricket Stadium, Chittagong",Bangladesh,14-12-2022,103,174,,KL Rahul,,Won,Test,24554
+483,538,19,29,0,0,65.51,4,,3,v Bangladesh,,"Bir Shrestha Shahid Flight Lieutenant Motiur Rahman Cricket Stadium, Chittagong",Bangladesh,14-12-2022,103,175,Not Out,KL Rahul,,Won,Test,24573
+484,539,24,73,3,0,32.87,4,caught,2,v Bangladesh,,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,22-12-2022,104,176,,KL Rahul,,Won,Test,24597
+484,540,1,22,0,0,4.54,5,caught,4,v Bangladesh,,"Sher-E-Bangla National Cricket Stadium, Dhaka",Bangladesh,22-12-2022,104,177,,KL Rahul,,Won,Test,24598
+485,541,113,87,12,1,129.88,3,caught,1,v Sri Lanka,,"ACA Stadium, Guwahati",India,10-01-2023,266,257,,Rohit,POTM,Won,ODI,24711
+486,542,4,9,1,0,44.44,3,bowled,2,v Sri Lanka,,"Eden Gardens, Kolkata",India,12-01-2023,267,258,,Rohit,,Won,ODI,24715
+487,543,166,110,13,8,150.9,3,,1,v Sri Lanka,,"Greenfield International Stadium, Thiruvananthapuram",India,15-01-2023,268,259,Not Out,Rohit,POTM,Won,ODI,24881
+488,544,8,10,1,0,80,3,bowled,1,v New Zealand,,"Rajiv Gandhi International Cricket Stadium, Hyderabad",India,18-01-2023,269,260,,Rohit,,Won,ODI,24889
+489,545,11,9,2,0,122.22,3,stumped,2,v New Zealand,,"Shaheed Veer Narayan Singh International Cricket Stadium, New Raipur",India,21-01-2023,270,261,,Rohit,,Won,ODI,24900
+490,546,36,27,3,1,133.33,3,caught,1,v New Zealand,,"Holkar Stadium, Indore",India,24-01-2023,271,262,,Rohit,,Won,ODI,24936
+491,547,12,26,2,0,46.15,5,caught,2,v Australia,Border-Gavaskar Trophy,"VCA Stadium, Nagpur",India,09-02-2023,105,178,,Rohit,,Won,Test,24948
+492,548,44,84,4,0,52.38,4,lbw,2,v Australia,Border-Gavaskar Trophy,"Arun Jaitley Stadium, Delhi",India,17-02-2023,106,179,,Rohit,,Won,Test,24992
+492,549,20,31,3,0,64.51,4,stumped,4,v Australia,Border-Gavaskar Trophy,"Arun Jaitley Stadium, Delhi",India,17-02-2023,106,180,,Rohit,,Won,Test,25012
+493,550,22,52,2,0,42.3,4,lbw,1,v Australia,Border-Gavaskar Trophy,"Holkar Stadium, Indore",India,01-03-2023,107,181,,Rohit,,Lost,Test,25034
+493,551,13,26,2,0,50,4,lbw,3,v Australia,Border-Gavaskar Trophy,"Holkar Stadium, Indore",India,01-03-2023,107,182,,Rohit,,Lost,Test,25047
+494,552,186,364,15,0,51.09,4,caught,2,v Australia,Border-Gavaskar Trophy,"Narendra Modi Stadium, Ahmedabad",India,09-03-2023,108,183,,Rohit,POTM,Drawn,Test,25233
+495,553,4,9,1,0,44.44,3,lbw,2,v Australia,,"Wankhede Stadium, Mumbai",India,17-03-2023,272,263,,Hardik,,Won,ODI,25237
+496,554,31,35,4,0,88.57,3,lbw,1,v Australia,,"ACA-VDCA Cricket Stadium, Visakhapatnam",India,19-03-2023,273,264,,Rohit,,Lost,ODI,25268
+497,555,54,72,2,1,75,3,caught,2,v Australia,,"M.A. Chidambaram Stadium, Chennai",India,22-03-2023,274,265,,Rohit,,Lost,ODI,25322
+498,556,14,31,2,0,45.16,4,caught,2,v Australia,WTC Final,"The Kia Oval, London",England,07-06-2023,109,184,,Rohit,,Lost,Test,25336
+498,557,49,78,7,0,62.82,4,caught,4,v Australia,WTC Final,"The Kia Oval, London",England,07-06-2023,109,185,,Rohit,,Lost,Test,25385
+499,558,76,182,5,0,41.75,4,caught,2,v West Indies,,"Windsor Park, Roseau",West Indies,12-07-2023,110,186,,Rohit,,Won,Test,25461
+500,559,121,206,11,0,58.73,4,run out,1,v West Indies,,"Queen's Park Oval, Port of Spain",West Indies,20-07-2023,111,187,,Rohit,,Drawn,Test,25582
+500,,,,,,,,,3,v West Indies,,"Queen's Park Oval, Port of Spain",West Indies,20-07-2023,111,DNB,,Rohit,,Drawn,Test,25582
+501,,,,,,,,,2,v West Indies,,"Kensington Oval, Bridgetown",West Indies,27-07-2023,275,DNB,,Rohit,,Won,ODI,25582
+502,560,4,7,1,0,57.14,3,bowled,1,v Pakistan,Asia Cup,"Pallekele International Cricket Stadium, Kandy",Sri Lanka,02-09-2023,276,266,,Rohit,,NR,ODI,25586
+503,,,,,,,,,2,v Nepal,Asia Cup,"Pallekele International Cricket Stadium, Kandy",Sri Lanka,04-09-2023,277,DNB,,Rohit,,Won,ODI,25586
+504,561,122,94,9,3,129.78,3,,1,v Pakistan,Asia Cup,"R. Premadasa Stadium, Colombo",Sri Lanka,10-09-2023,278,267,Not Out,Rohit,POTM,Won,ODI,25708
+505,562,3,12,0,0,25,3,caught,1,v Sri Lanka,Asia Cup,"R. Premadasa Stadium, Colombo",Sri Lanka,12-09-2023,279,268,,Rohit,,Won,ODI,25711
+506,,,,,,,,,2,v Sri Lanka,Asia Cup,"R. Premadasa Stadium, Colombo",Sri Lanka,17-09-2023,280,DNB,,Rohit,,Won,ODI,25711
+507,563,56,61,5,1,91.8,3,caught,2,v Australia,,"Niranjan Shah Stadium, Rajkot",India,27-09-2023,281,269,,Rohit,,Lost,ODI,25767
+508,564,85,116,6,0,73.27,3,caught,2,v Australia,ODI World Cup,"M.A. Chidambaram Stadium, Chennai",India,08-10-2023,282,270,,Rohit,,Won,ODI,25852
+509,565,55,56,6,0,98.21,3,,2,v Afghanistan,ODI World Cup,"Arun Jaitley Stadium, Delhi",India,11-10-2023,283,271,Not Out,Rohit,,Won,ODI,25907
+510,566,16,18,3,0,88.88,3,caught,2,v Pakistan,ODI World Cup,"Narendra Modi Stadium, Ahmedabad",India,14-10-2023,284,272,,Rohit,,Won,ODI,25923
+511,567,103,97,6,4,106.18,3,,2,v Bangladesh,ODI World Cup,"Maharashtra Cricket Association Stadium, Pune",India,19-10-2023,285,273,Not Out,Rohit,POTM,Won,ODI,26026
+512,568,95,104,8,2,91.34,3,caught,2,v New Zealand,ODI World Cup,"Himachal Pradesh Cricket Association Stadium, Dharamshala",India,22-10-2023,286,274,,Rohit,,Won,ODI,26121
+513,569,0,9,0,0,0,3,caught,1,v England,ODI World Cup,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,29-10-2023,287,275,,Rohit,,Won,ODI,26121
+514,570,88,94,11,0,93.61,3,caught,1,v Sri Lanka,ODI World Cup,"Wankhede Stadium, Mumbai",India,02-11-2023,288,276,,Rohit,,Won,ODI,26209
+515,571,101,121,10,0,83.47,3,,1,v South Africa,ODI World Cup,"Eden Gardens, Kolkata",India,05-11-2023,289,277,Not Out,Rohit,POTM,Won,ODI,26310
+516,572,51,56,5,1,91.07,3,bowled,1,v Netherlands,ODI World Cup,"M.Chinnaswamy Stadium, Bengaluru",India,12-11-2023,290,278,,Rohit,POTM,Won,ODI,26361
+517,573,117,113,9,2,103.53,3,caught,1,v New Zealand,ODI World Cup,"Wankhede Stadium, Mumbai",India,15-11-2023,291,279,,Rohit,,Won,ODI,26478
+518,574,54,63,4,0,85.71,3,bowled,1,v Australia,ODI World Cup,"Narendra Modi Stadium, Ahmedabad",India,19-11-2023,292,280,,Rohit,,Lost,ODI,26532
+519,575,38,64,5,0,59.37,4,caught,1,v South Africa,,"SuperSport Park, Centurion",South Africa,26-12-2023,112,188,,Rohit,,Lost,Test,26570
+519,576,76,82,12,1,92.68,4,caught,3,v South Africa,,"SuperSport Park, Centurion",South Africa,26-12-2023,112,189,,Rohit,,Lost,Test,26646
+520,577,46,59,6,1,77.96,4,caught,2,v South Africa,,"Newlands Cricket Ground, Cape Town",South Africa,03-01-2024,113,190,,Rohit,,Won,Test,26692
+520,578,12,11,2,0,109.09,4,caught,4,v South Africa,,"Newlands Cricket Ground, Cape Town",South Africa,03-01-2024,113,191,,Rohit,,Won,Test,26704
+521,579,29,16,5,0,181.25,3,caught,2,v Afghanistan,,"Holkar Stadium, Indore",India,14-01-2024,116,108,,Rohit,,Won,T20I,26733
+522,580,0,1,0,0,0,3,caught,1,v Afghanistan,,"M.Chinnaswamy Stadium, Bengaluru",India,17-01-2024,117,109,,Rohit,,Won,T20I,26733
+523,581,1,5,0,0,20,2,caught,2,v Ireland,T20 World Cup,"Nassau County International Cricket Stadium, New York",United States of America,05-06-2024,118,110,,Rohit,,Won,T20I,26734
+524,582,4,3,1,0,133.33,2,caught,1,v Pakistan,T20 World Cup,"Nassau County International Cricket Stadium, New York",United States of America,09-06-2024,119,111,,Rohit,,Won,T20I,26738
+525,583,0,1,0,0,0,2,caught,2,v U.S.A.,T20 World Cup,"Nassau County International Cricket Stadium, New York",United States of America,12-06-2024,120,112,,Rohit,,Won,T20I,26738
+526,584,24,24,0,1,100,2,caught,1,v Afghanistan,T20 World Cup,"Kensington Oval, Bridgetown",West Indies,20-06-2024,121,113,,Rohit,,Won,T20I,26762
+527,585,37,28,1,3,132.14,2,bowled,1,v Bangladesh,T20 World Cup,"Sir Vivian Richards Stadium, North Sound",West Indies,22-06-2024,122,114,,Rohit,,Won,T20I,26799
+528,586,0,5,0,0,0,2,caught,1,v Australia,T20 World Cup,"Darren Sammy Cricket Ground, Gros Islet",West Indies,24-06-2024,123,115,,Rohit,,Won,T20I,26799
+529,587,9,9,0,1,100,2,bowled,1,v England,T20 World Cup,"Providence Cricket Stadium, Georgetown",West Indies,27-06-2024,124,116,,Rohit,,Won,T20I,26808
+530,588,76,59,6,2,128.81,2,caught,1,v South Africa,T20 World Cup,"Kensington Oval, Bridgetown",West Indies,29-06-2024,125,117,,Rohit,POTM,Won,T20I,26884
+531,589,24,32,2,0,75,3,lbw,2,v Sri Lanka,,"R. Premadasa Stadium, Colombo",Sri Lanka,02-08-2024,293,281,,Rohit,,Tied,ODI,26908
+532,590,14,19,2,0,73.68,3,lbw,2,v Sri Lanka,,"R. Premadasa Stadium, Colombo",Sri Lanka,04-08-2024,294,282,,Rohit,,Lost,ODI,26922
+533,591,20,18,4,0,111.11,3,lbw,2,v Sri Lanka,,"R. Premadasa Stadium, Colombo",Sri Lanka,07-08-2024,295,283,,Rohit,,Lost,ODI,26942
+534,592,6,6,0,0,100,4,caught,1,v Bangladesh,,"M.A. Chidambaram Stadium, Chennai",India,19-09-2024,114,192,,Rohit,,Won,Test,26948
+534,593,17,37,2,0,45.94,4,lbw,3,v Bangladesh,,"M.A. Chidambaram Stadium, Chennai",India,19-09-2024,114,193,,Rohit,,Won,Test,26965
+535,594,47,35,4,1,134.28,5,bowled,2,v Bangladesh,,"Green Park, Kanpur",India,27-09-2024,115,194,,Rohit,,Won,Test,27012
+535,595,29,37,4,0,78.37,4,,4,v Bangladesh,,"Green Park, Kanpur",India,27-09-2024,115,195,Not Out,Rohit,,Won,Test,27041
+536,596,0,9,0,0,0,3,caught,1,v New Zealand,,"M.Chinnaswamy Stadium, Bengaluru",India,16-10-2024,116,196,,Rohit,,Lost,Test,27041
+536,597,70,102,8,1,68.62,3,caught,3,v New Zealand,,"M.Chinnaswamy Stadium, Bengaluru",India,16-10-2024,116,197,,Rohit,,Lost,Test,27111
+537,598,1,9,0,0,11.11,4,bowled,2,v New Zealand,,"Maharashtra Cricket Association Stadium, Pune",India,24-10-2024,117,198,,Rohit,,Lost,Test,27112
+537,599,17,40,2,0,42.5,4,lbw,4,v New Zealand,,"Maharashtra Cricket Association Stadium, Pune",India,24-10-2024,117,199,,Rohit,,Lost,Test,27129
+538,600,4,6,1,0,66.66,5,run out,2,v New Zealand,,"Wankhede Stadium, Mumbai",India,01-11-2024,118,200,,Rohit,,Lost,Test,27133
+538,601,1,7,0,0,14.28,4,caught,4,v New Zealand,,"Wankhede Stadium, Mumbai",India,01-11-2024,118,201,,Rohit,,Lost,Test,27134
+539,602,5,12,0,0,41.66,4,caught,1,v Australia,Border-Gavaskar Trophy,"Optus Stadium, Perth",Australia,22-11-2024,119,202,,Bumrah,,Won,Test,27139
+539,603,100,143,8,2,69.93,4,,3,v Australia,Border-Gavaskar Trophy,"Optus Stadium, Perth",Australia,22-11-2024,119,203,Not Out,Bumrah,,Won,Test,27239
+540,604,7,8,1,0,87.5,4,caught,1,v Australia,Border-Gavaskar Trophy,"Adelaide Oval, Adelaide",Australia,06-12-2024,120,204,,Rohit,,Lost,Test,27246
+540,605,11,21,1,0,52.38,4,caught,3,v Australia,Border-Gavaskar Trophy,"Adelaide Oval, Adelaide",Australia,06-12-2024,120,205,,Rohit,,Lost,Test,27257
+541,606,3,16,0,0,18.75,4,caught,2,v Australia,Border-Gavaskar Trophy,"The Gabba, Brisbane",Australia,14-12-2024,121,206,,Rohit,,Drawn,Test,27260
+541,,,,,,,,,4,v Australia,Border-Gavaskar Trophy,"The Gabba, Brisbane",Australia,14-12-2024,121,DNB,,Rohit,,Drawn,Test,27260
+542,607,36,86,4,0,41.86,4,caught,2,v Australia,Border-Gavaskar Trophy,"Melbourne Cricket Ground, Melbourne",Australia,26-12-2024,122,207,,Rohit,,Lost,Test,27296
+542,608,5,29,0,0,17.24,4,caught,4,v Australia,Border-Gavaskar Trophy,"Melbourne Cricket Ground, Melbourne",Australia,26-12-2024,122,208,,Rohit,,Lost,Test,27301
+543,609,17,69,0,0,24.63,4,caught,1,v Australia,Border-Gavaskar Trophy,"Sydney Cricket Ground, Sydney",Australia,03-01-2025,123,209,,Bumrah,,Lost,Test,27318
+543,610,6,12,1,0,50,4,caught,3,v Australia,Border-Gavaskar Trophy,"Sydney Cricket Ground, Sydney",Australia,03-01-2025,123,210,,Bumrah,,Lost,Test,27324
+544,611,5,8,1,0,62.5,3,caught,2,v England,,"Barabati Stadium, Cuttack",India,09-02-2025,296,284,,Rohit,,Won,ODI,27329
+545,612,52,55,7,1,94.54,3,caught,1,v England,,"Narendra Modi Stadium, Ahmedabad",India,12-02-2025,297,285,,Rohit,,Won,ODI,27381
+546,613,22,38,1,0,57.89,3,caught,2,v Bangladesh,Champions Trophy,"Dubai International Stadium, Dubai",United Arab Emirates,20-02-2025,298,286,,Rohit,,Won,ODI,27403
+547,614,100,111,7,0,90.09,3,,2,v Pakistan,Champions Trophy,"Dubai International Stadium, Dubai",United Arab Emirates,23-02-2025,299,287,Not Out,Rohit,POTM,Won,ODI,27503
+548,615,11,14,2,0,78.57,3,caught,1,v New Zealand,Champions Trophy,"Dubai International Stadium, Dubai",United Arab Emirates,02-03-2025,300,288,,Rohit,,Won,ODI,27514
+549,616,84,98,5,0,85.71,3,caught,2,v Australia,Champions Trophy,"Dubai International Stadium, Dubai",United Arab Emirates,04-03-2025,301,289,,Rohit,POTM,Won,ODI,27598
+550,617,1,2,0,0,50,3,lbw,2,v New Zealand,Champions Trophy,"Dubai International Stadium, Dubai",United Arab Emirates,09-03-2025,302,290,,Rohit,,Won,ODI,27599
+551,618,0,8,0,0,0,3,caught,1,v Australia,,"Optus Stadium, Perth",Australia,19-10-2025,303,291,,Gill,,Lost,ODI,27599
+552,619,0,4,0,0,0,3,lbw,1,v Australia,,"Adelaide Oval, Adelaide",Australia,23-10-2025,304,292,,Gill,,Lost,ODI,27599
+553,620,74,81,7,0,91.35,3,,2,v Australia,,"Sydney Cricket Ground, Sydney",Australia,25-10-2025,305,293,Not Out,Gill,,Won,ODI,27673
+554,621,135,120,11,7,112.5,3,caught,1,v South Africa,,"JSCA Internation Stadium Complex, Ranchi",India,30-11-2025,306,294,,KL Rahul,POTM,Won,ODI,27808
+555,622,102,93,7,2,109.67,3,caught,1,v South Africa,,"Shaheed Veer Narayan Singh International Cricket Stadium, New Raipur",India,03-12-2025,307,295,,KL Rahul,,Lost,ODI,27910
+556,623,65,45,6,3,144.44,3,,2,v South Africa,,"ACA-VDCA Cricket Stadium, Visakhapatnam",India,06-12-2025,308,296,Not Out,KL Rahul,,Won,ODI,27975
+557,624,93,91,8,1,102.19,3,caught,2,v New Zealand,,"BCA Stadium, Vadodara",India,11-01-2026,309,297,,Gill,POTM,Won,ODI,28068
+558,625,23,29,2,0,79.31,3,bowled,1,v New Zealand,,"Niranjan Shah Stadium, Rajkot",India,14-01-2026,310,298,,Gill,,Lost,ODI,28091
+559,626,124,108,10,3,114.81,3,caught,2,v New Zealand,,"Holkar Stadium, Indore",India,18-01-2026,311,299,,Gill,,Lost,ODI,28215
